@@ -45,7 +45,7 @@
         ]
       }
     ],
-    "timerEnd": "2025-09-14T16:00:00.000Z"
+    "timerEndDate": "2025-09-14T16:00:00.000Z"
   },
   {
     "id": "B",
@@ -93,7 +93,7 @@
         ]
       }
     ],
-    "timerEnd": ""
+    "timerEndDate": ""
   },
   {
     "id": "C",
@@ -141,6 +141,6 @@
         ]
       }
     ],
-    "timerEnd": ""
+    "timerEndDate": ""
   }
 ]
