@@ -45,7 +45,8 @@
         ]
       }
     ],
-    "timerEndDate": "2025-09-03T16:00:00.000Z"
+    "timerEndDate": "2025-09-03T16:00:00.000Z",
+    "carouselMainImg": "https://ab-benzz.github.io/voucher-widget/abenson_voucher_img.png"
   },
   {
     "id": "B",
@@ -93,7 +94,8 @@
         ]
       }
     ],
-    "timerEndDate": ""
+    "timerEndDate": "",
+    "carouselMainImg": ""
   },
   {
     "id": "C",
@@ -141,7 +143,8 @@
         ]
       }
     ],
-    "timerEndDate": ""
+    "timerEndDate": "",
+    "carouselMainImg": ""
   },
   {
     "id": "D",
@@ -189,7 +192,8 @@
         ]
       }
     ],
-    "timerEndDate": ""
+    "timerEndDate": "",
+    "carouselMainImg": ""
   },
   {
     "id": "E",
@@ -237,6 +241,7 @@
         ]
       }
     ],
-    "timerEndDate": ""
+    "timerEndDate": "",
+    "carouselMainImg": ""
   }
 ]
