@@ -1,0 +1,20 @@
+[
+  {
+    "SKU": 1234,
+    "Description": "Lorem Ipsum",
+    "Chips": [
+      "first",
+      "second",
+      "third"
+    ]
+  },
+  {
+    "SKU": 6969,
+    "Description": "Test Test",
+    "Chips": [
+      "naruto",
+      "sasuke",
+      "menma"
+    ]
+  }
+]
