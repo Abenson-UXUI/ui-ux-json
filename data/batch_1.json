@@ -1,821 +1,1185 @@
 [
   {
+    "Category": "Aircon",
     "SKU": 190839,
+    "Item Name": 190839,
     "Keywords": [
-      "[\"LG\"",
-      "\"Inverter Aircon\"",
-      "\"Smart Aircon\"]"
+      "LG",
+      "Inverter Aircon",
+      "Smart Aircon"
     ],
-    "Summary": "Experience consistent, energy-efficient cooling in your 1HP space with the LG Basic Inverter, boasting a 5-star CSPF rating and Dual Inverter Compressor that intelligently saves power through Active Energy Control and kW Manager, while LG ThinQ offers smart control and the Gold Fin ensures enduring performance for a truly comfortable home."
+    "Summary": "Experience consistent, energy-efficient cooling in your 1HP space with the LG Basic Inverter, boasting a 5-star CSPF rating and Dual Inverter Compressor that intelligently saves power through Active Energy Control and kW Manager, while LG ThinQ offers smart control and the Gold Fin ensures enduring performance for a truly comfortable home.",
+    "Edited - Jamie pls check here": "Enjoy reliable, energy-efficient cooling in your 1HP space with the LG Basic Inverter. It features a 5-star CSPF rating and a Dual Inverter Compressor, which intelligently reduces energy use through Active Energy Control and the kW Manager. Control your comfort from anywhere with LG ThinQ, while the Gold Fin coating ensures long-lasting performance and durability.\n",
+    "Remarks": ""
   },
   {
+    "Category": "Aircon",
     "SKU": 182722,
+    "Item Name": "Carrier Compact Inverter (WCARH009EEVC2)",
     "Keywords": [
-      "[\"Carrier\"",
-      "\"Aircon\"",
-      "\"Inverter\"]"
+      "Carrier",
+      "Aircon",
+      "Inverter"
     ],
-    "Summary": "Upgrade effortlessly to a compact 5-star inverter aircon that brings significant energy savings through its Econo Feature and Energy Saving Plug, while the 8-in-1 filter delivers not just cooler but also healthier air, ensuring a truly comfortable and clean living space."
+    "Summary": "Upgrade effortlessly to a compact 5-star inverter aircon that brings significant energy savings through its Econo Feature and Energy Saving Plug, while the 8-in-1 filter delivers not just cooler but also healthier air, ensuring a truly comfortable and clean living space.",
+    "Edited - Jamie pls check here": "Upgrade effortlessly to a compact 5-star inverter aircon that brings significant energy savings through its Econo Feature and Energy Saving Plug, while the 8-in-1 filter delivers not just cooler but also healthier air, ensuring a truly comfortable and clean living space.",
+    "Remarks": ""
   },
   {
+    "Category": "Aircon",
     "SKU": 196331,
+    "Item Name": "TCL Basic Inverter (TAC-13CSD/KEI2)",
     "Keywords": [
-      "[\"TCL\"",
-      "\"Inverter Aircon\"",
-      "\"Energy Saving\"]"
+      "TCL",
+      "Inverter Aircon",
+      "Energy Saving"
     ],
-    "Summary": "Experience superior comfort with the TCL Basic Inverter, featuring a 5-star CSPF rating and T-AI Technology for impressive energy savings, while its Golden Titanium Fins and corrosion-proof parts ensure lasting durability for consistent, quiet cooling in your home."
+    "Summary": "Experience superior comfort with the TCL Basic Inverter, featuring a 5-star CSPF rating and T-AI Technology for impressive energy savings, while its Golden Titanium Fins and corrosion-proof parts ensure lasting durability for consistent, quiet cooling in your home.",
+    "Edited - Jamie pls check here": "Enjoy the TCL Basic Inverter, whose 5-star CSPF rating and T-AI Technology lower energy consumption, allowing you to save on electricity effortlessly. Golden Titanium Fins and corrosion-resistant parts extend the system?s lifespan, resulting in steady, silent airflow that transforms your home into a reliably cool and comfortable retreat.",
+    "Remarks": ""
   },
   {
+    "Category": "Aircon",
     "SKU": 187391,
+    "Item Name": "Panasonic CW-U923JPH-W",
     "Keywords": [
-      "[\"Panasonic\"",
-      "\"Inverter Aircon\"",
-      "\"Anti-Bacterial Filter\"]"
+      "Panasonic",
+      "Inverter Aircon",
+      "Anti-Bacterial Filter"
     ],
-    "Summary": "Experience refreshing comfort with the Panasonic 1HP Inverter aircon, boasting a 5-Star CSPF and DC Inverter Motor for significant energy savings and quieter operation, while its anti-bacterial filter ensures cleaner air in your small living space."
+    "Summary": "Experience refreshing comfort with the Panasonic 1HP Inverter aircon, boasting a 5-Star CSPF and DC Inverter Motor for significant energy savings and quieter operation, while its anti-bacterial filter ensures cleaner air in your small living space.",
+    "Edited - Jamie pls check here": "Feel revitalized indoors, as the 5-Star CSPF demonstrates remarkable energy efficiency caused by the DC Inverter Motor?s quiet, dependable operation. The anti-bacterial filter ensures cleaner air, creating a refreshingly cool, healthy, and serene small space.",
+    "Remarks": ""
   },
   {
+    "Category": "Aircon",
     "SKU": 196414,
+    "Item Name": "TCL TAC-12CWI/UB2",
     "Keywords": [
-      "[\"TCL\"",
-      "\"Inverter Aircon\"",
-      "\"Energy Saving\"]"
+      "TCL",
+      "Inverter Aircon",
+      "Energy Saving"
     ],
-    "Summary": "Enjoy a consistently cool home with this 1.5HP Inverter aircon, engineered with T-AI Technology for powerful, energy-efficient cooling up to 75% savings. Its durable Golden Titanium Fins and protected PCB ensure long-term reliability, while a filter cleaning reminder keeps performance optimal."
+    "Summary": "Enjoy a consistently cool home with this 1.5HP Inverter aircon, engineered with T-AI Technology for powerful, energy-efficient cooling up to 75% savings. Its durable Golden Titanium Fins and protected PCB ensure long-term reliability, while a filter cleaning reminder keeps performance optimal.",
+    "Edited - Jamie pls check here": "Breathe in consistently cool, fresh air as T-AI Technology powers energy-efficient cooling that saves up to 75% on electricity. Golden Titanium Fins and a protected PCB extend durability, and the filter cleaning reminder ensures reliable performance, leaving your home quietly comfortable and invigorating.",
+    "Remarks": ""
   },
   {
+    "Category": "Aircon",
     "SKU": 195843,
+    "Item Name": "Midea Celest 2.0 Inverter (MSCE-19CRFN8)",
     "Keywords": [
-      "[\"Midea\"",
-      "\"Inverter Aircon\"",
-      "\"Energy Saving Aircon\"]"
+      "Midea",
+      "Inverter Aircon",
+      "Energy Saving Aircon"
     ],
-    "Summary": "Experience superior comfort with this 2.0 HP Full DC Inverter, offering a CSPF of 5.55 and Eco Master 20% extra savings for remarkable energy efficiency. Its AI Temperature Control ensures precise cooling, while UV conformal and anti-corrosive coatings provide lasting durability, keeping your home perfectly cool and your bills manageable."
+    "Summary": "Experience superior comfort with this 2.0 HP Full DC Inverter, offering a CSPF of 5.55 and Eco Master 20% extra savings for remarkable energy efficiency. Its AI Temperature Control ensures precise cooling, while UV conformal and anti-corrosive coatings provide lasting durability, keeping your home perfectly cool and your bills manageable.",
+    "Edited - Jamie pls check here": "Delight in quiet, efficient cooling with the 2.0 HP Full DC Inverter, whose CSPF rating of 5.55 and Eco Master deliver 20% additional energy savings. AI Temperature Control keeps temperatures precise, and UV-conformal plus anti-corrosive coatings ensure long-term performance, leaving your home comfortably cool and energy-smart.",
+    "Remarks": ""
   },
   {
+    "Category": "Aircon",
     "SKU": 186947,
+    "Item Name": "Carrier Aura Inverter (FP-53CEP012308)",
     "Keywords": [
-      "[\"Carrier\"",
-      "\"Inverter Aircon\"",
-      "\"Intelligent Eye\"]"
+      "Carrier",
+      "Inverter Aircon",
+      "Intelligent Eye"
     ],
-    "Summary": "Experience refreshing comfort and significant savings with this 5-Star Inverter aircon, featuring an Intelligent Eye sensor that optimizes energy use by detecting room activity, alongside robust Gold Fin protection for lasting performance, ensuring a clean, cool, and personalized environment."
+    "Summary": "Experience refreshing comfort and significant savings with this 5-Star Inverter aircon, featuring an Intelligent Eye sensor that optimizes energy use by detecting room activity, alongside robust Gold Fin protection for lasting performance, ensuring a clean, cool, and personalized environment.",
+    "Edited - Jamie pls check here": "Bask in cool, efficient comfort as the 5-Star Inverter aircon reduces energy consumption through its Intelligent Eye sensor, which senses room activity. Gold Fin protection preserves long-term durability, leaving your environment refreshingly clean, comfortably cool, and tailored to your presence.",
+    "Remarks": ""
   },
   {
+    "Category": "Aircon",
     "SKU": 190853,
+    "Item Name": "LG LA100AE2",
     "Keywords": [
-      "[\"LG\"",
-      "\"Inverter Aircon\"",
-      "\"Dual Inverter\"]"
+      "LG",
+      "Inverter Aircon",
+      "Dual Inverter"
     ],
-    "Summary": "Experience ultimate comfort and savings with the LG LA100AE2 1HP Inverter aircon, featuring a 5-star CSPF Dual Inverter Compressor for impressive energy efficiency and powerful cooling. Take control of your electricity use with the kW Manager and enjoy smart convenience through LG ThinQ, transforming your home into a personalized cool sanctuary."
+    "Summary": "Experience ultimate comfort and savings with the LG LA100AE2 1HP Inverter aircon, featuring a 5-star CSPF Dual Inverter Compressor for impressive energy efficiency and powerful cooling. Take control of your electricity use with the kW Manager and enjoy smart convenience through LG ThinQ, transforming your home into a personalized cool sanctuary.",
+    "Edited - Jamie pls check here": "Indulge in consistently cool comfort with the LG LA100AE2 1HP Inverter aircon, as its 5-star CSPF Dual Inverter Compressor delivers powerful, energy-efficient cooling. The kW Manager optimizes electricity use, and LG ThinQ adds smart convenience, transforming your home into a refreshingly personalized sanctuary.",
+    "Remarks": ""
   },
   {
+    "Category": "Aircon",
     "SKU": 195358,
+    "Item Name": "LG LA150GC1",
     "Keywords": [
-      "[\"LG\"",
-      "\"Inverter Aircon\"",
-      "\"Dual Inverter\"]"
+      "LG",
+      "Inverter Aircon",
+      "Dual Inverter"
     ],
-    "Summary": "Experience consistent comfort with the LG LA150GC1's Dual Inverter Compressor, delivering fast, energy-efficient 1.5HP cooling perfect for small spaces, while LG ThinQ and AI kW Manager allow smart control and energy monitoring for effortless living and sustained unit health."
+    "Summary": "Experience consistent comfort with the LG LA150GC1's Dual Inverter Compressor, delivering fast, energy-efficient 1.5HP cooling perfect for small spaces, while LG ThinQ and AI kW Manager allow smart control and energy monitoring for effortless living and sustained unit health.",
+    "Edited - Jamie pls check here": "Awaken to fast, reliable cooling with the LG LA150GC1?s Dual Inverter Compressor, providing energy-efficient 1.5HP performance for small spaces. LG ThinQ and AI kW Manager optimize energy use and ensure unit longevity, leaving your home refreshingly comfortable and effortlessly controlled.",
+    "Remarks": ""
   },
   {
+    "Category": "Aircon",
     "SKU": 191658,
+    "Item Name": "Condura 53KPV012313",
     "Keywords": [
-      "[\"Condura\"",
-      "\"Inverter Aircon\"",
-      "\"HEPA Filter\"]"
+      "Condura",
+      "Inverter Aircon",
+      "HEPA Filter"
     ],
-    "Summary": "Experience refreshing comfort in your 20-25sqm space with this 1.5HP Inverter aircon, engineered for high energy efficiency with a 5-star CSPF rating, complemented by durable Gold Fin protection and smart features like an Intelligent Dusting Switch, ensuring consistent cooling and cleaner air with its HEPA filter for a truly relaxing home environment."
+    "Summary": "Experience refreshing comfort in your 20-25sqm space with this 1.5HP Inverter aircon, engineered for high energy efficiency with a 5-star CSPF rating, complemented by durable Gold Fin protection and smart features like an Intelligent Dusting Switch, ensuring consistent cooling and cleaner air with its HEPA filter for a truly relaxing home environment.",
+    "Edited - Jamie pls check here": "Feel consistently cool comfort in your 20?25sqm space as the 1.5HP Inverter aircon delivers energy-efficient cooling with its 5-star CSPF rating. Gold Fin protection ensures lasting durability, and the Intelligent Dusting Switch with HEPA filter purifies the air, keeping your home refreshingly clean, cool, and relaxing.",
+    "Remarks": ""
   },
   {
+    "Category": "Audio Video",
     "SKU": 184506,
+    "Item Name": "TCL UHD 55P635",
     "Keywords": [
-      "[\"TCL\"",
-      "\"55-inch\"",
-      "\"LED TV\"]"
+      "TCL",
+      "55-inch",
+      "LED TV"
     ],
-    "Summary": "Step into a world of breathtaking visuals on the expansive 55-inch edgeless display, where 4K UHD resolution and HDR 10 combine to deliver stunning clarity and vibrant colors, perfectly complemented by the immersive, multi-dimensional sound of Dolby Audio for an unforgettable entertainment experience."
+    "Summary": "Step into a world of breathtaking visuals on the expansive 55-inch edgeless display, where 4K UHD resolution and HDR 10 combine to deliver stunning clarity and vibrant colors, perfectly complemented by the immersive, multi-dimensional sound of Dolby Audio for an unforgettable entertainment experience.",
+    "Edited - Jamie pls check here": "Relish cinematic visuals on the expansive 55-inch edgeless display, where 4K UHD resolution and HDR 10 create vibrant, lifelike images. Combined with Dolby Audio?s enveloping sound, every movie, show, or game transforms into an unforgettable entertainment experience.",
+    "Remarks": ""
   },
   {
+    "Category": "Audio Video",
     "SKU": 192181,
+    "Item Name": "LG UHD 43UT8050PSB",
     "Keywords": [
-      "[\"LG\"",
-      "\"43-inch\"",
-      "\"4K UHD TV\"]"
+      "LG",
+      "43-inch",
+      "4K UHD TV"
     ],
-    "Summary": "Imagine stepping into a world of breathtaking visuals on your 43-inch 4K UHD display, brought to life by the A5 Gen7 AI Processor for vibrant colors and intricate details, while Dolby Audio and AI Sound Pro fill your space with rich, clear sound, all designed with Smart Energy Saving for considerate power use."
+    "Summary": "Imagine stepping into a world of breathtaking visuals on your 43-inch 4K UHD display, brought to life by the A5 Gen7 AI Processor for vibrant colors and intricate details, while Dolby Audio and AI Sound Pro fill your space with rich, clear sound, all designed with Smart Energy Saving for considerate power use.",
+    "Edited - Jamie pls check here": "Feel the thrill of breathtaking visuals on your 43-inch 4K UHD display, where the A5 Gen7 AI Processor delivers vibrant colors and intricate details. Dolby Audio and AI Sound Pro enrich your space with clear, multi-dimensional sound, while Smart Energy Saving optimizes power use for an immersive and efficient experience.",
+    "Remarks": ""
   },
   {
+    "Category": "Audio Video",
     "SKU": 176202,
+    "Item Name": "LG Smart 43LM5750PTC",
     "Keywords": [
-      "[\"LG\"",
-      "\"43-inch\"",
-      "\"LED TV\"]"
+      "LG",
+      "43-inch",
+      "LED TV"
     ],
-    "Summary": "Immerse your family in vibrant entertainment on a 43-inch Full HD screen, where Dynamic Color and Active HDR, enhanced by a Quad-Core Processor, deliver captivating visuals; while Dolby Audio and Virtual Surround Plus create rich, multi-dimensional sound, all efficiently powered with Smart Energy Saving for countless enjoyable moments."
+    "Summary": "Immerse your family in vibrant entertainment on a 43-inch Full HD screen, where Dynamic Color and Active HDR, enhanced by a Quad-Core Processor, deliver captivating visuals; while Dolby Audio and Virtual Surround Plus create rich, multi-dimensional sound, all efficiently powered with Smart Energy Saving for countless enjoyable moments.",
+    "Edited - Jamie pls check here": "Witness stunning visuals on the 43-inch Full HD screen, where Dynamic Color and Active HDR enhanced by a Quad-Core Processor bring every scene to life. Dolby Audio and Virtual Surround Plus provide immersive sound, and Smart Energy Saving keeps energy use efficient for countless memorable family moments.",
+    "Remarks": ""
   },
   {
+    "Category": "Audio Video",
     "SKU": 194049,
+    "Item Name": "Haier Google H40K85EFX",
     "Keywords": [
-      "[\"Haier\"",
-      "\"40-inch TV\"",
-      "\"Full HD TV\"]"
+      "Haier",
+      "40-inch TV",
+      "Full HD TV"
     ],
-    "Summary": "Step into a world of entertainment with the Haier Google TV, where the 40-inch Full HD screen delivers lifelike HDR10+ visuals and rich colors, all while its energy-efficient 66W operation helps manage your bills, and smart connectivity easily integrates your favorite sound system for a complete home viewing experience."
+    "Summary": "Step into a world of entertainment with the Haier Google TV, where the 40-inch Full HD screen delivers lifelike HDR10+ visuals and rich colors, all while its energy-efficient 66W operation helps manage your bills, and smart connectivity easily integrates your favorite sound system for a complete home viewing experience.",
+    "Edited - Jamie pls check here": "Indulge your senses with the Haier Google TV, where the 40-inch Full HD screen and HDR10+ deliver stunning, lifelike colors and intricate detail. Every sound resonates through your connected system, while energy-efficient 66W operation ensures hours of immersive, guilt-free entertainment.",
+    "Remarks": ""
   },
   {
+    "Category": "Audio Video",
     "SKU": 193599,
+    "Item Name": "Skyworth Smart 32STE4000",
     "Keywords": [
-      "[\"Skyworth\"",
-      "\"32-inch TV\"",
-      "\"LED TV\"]"
+      "Skyworth",
+      "32-inch TV",
+      "LED TV"
     ],
-    "Summary": "Step into a world of vibrant HD entertainment with this 32-inch Infinity Screen, where the Trochilus Extreme Picture Engine brings stunning visuals to life with flicker-free clarity, complemented by powerful 10W+10W audio and a low 60W power consumption, ensuring a comfortable and enduring viewing experience for your home."
+    "Summary": "Step into a world of vibrant HD entertainment with this 32-inch Infinity Screen, where the Trochilus Extreme Picture Engine brings stunning visuals to life with flicker-free clarity, complemented by powerful 10W+10W audio and a low 60W power consumption, ensuring a comfortable and enduring viewing experience for your home.",
+    "Edited - Jamie pls check here": "Feel every scene come alive on the 32-inch Infinity Screen, where HD visuals are perfected by the Trochilus Extreme Picture Engine for flicker-free clarity. Powerful 10W+10W speakers immerse you in sound, while low 60W power consumption keeps your viewing experience comfortable and enduring.",
+    "Remarks": ""
   },
   {
+    "Category": "Audio Video",
     "SKU": 192162,
+    "Item Name": "LG OLED 55C4PSA",
     "Keywords": [
-      "[\"LG\"",
-      "\"55 inch TV\"",
-      "\"OLED TV\"]"
+      "LG",
+      "55 inch TV",
+      "OLED TV"
     ],
-    "Summary": "Immerse yourself in vibrant 4K visuals on the 55-inch OLED screen, where the A9 Gen7 AI Processor delivers stunning picture and rich Dolby Atmos sound, while Smart Energy Saving helps manage power consumption for an enduring cinematic experience."
+    "Summary": "Immerse yourself in vibrant 4K visuals on the 55-inch OLED screen, where the A9 Gen7 AI Processor delivers stunning picture and rich Dolby Atmos sound, while Smart Energy Saving helps manage power consumption for an enduring cinematic experience.",
+    "Edited - Jamie pls check here": "Relish the stunning clarity of 4K visuals on the 55-inch OLED screen, powered by the A9 Gen7 AI Processor. Dolby Atmos creates immersive, multi-dimensional sound, and Smart Energy Saving ensures low power consumption, delivering a cinematic experience that?s both thrilling and enduring.",
+    "Remarks": ""
   },
   {
+    "Category": "Audio Video",
     "SKU": 193080,
+    "Item Name": "TCL UHD 43V6B",
     "Keywords": [
-      "[\"TCL\"",
-      "\"43-inch\"",
-      "\"UHD TV\"]"
+      "TCL",
+      "43-inch",
+      "UHD TV"
     ],
-    "Summary": "Experience breathtaking 4K UHD visuals on this 43-inch display, where Dynamic Color Enhancement and HDR bring vibrant scenes to life, complemented by immersive Dolby Audio and DTS sound, all while its efficient 90W operation ensures a captivating entertainment journey."
+    "Summary": "Experience breathtaking 4K UHD visuals on this 43-inch display, where Dynamic Color Enhancement and HDR bring vibrant scenes to life, complemented by immersive Dolby Audio and DTS sound, all while its efficient 90W operation ensures a captivating entertainment journey.",
+    "Edited - Jamie pls check here": "Indulge in stunning 4K UHD clarity on the 43-inch display, where Dynamic Color and HDR enhance every frame. Dolby Audio and DTS bring immersive sound to life, while efficient 90W power consumption ensures a long-lasting, captivating viewing journey.",
+    "Remarks": ""
   },
   {
+    "Category": "Audio Video",
     "SKU": 192825,
+    "Item Name": "Sony BRAVIA 3 UHD K-55S30",
     "Keywords": [
-      "[\"Sony\"",
-      "\"55 inch\"",
-      "\"LED TV\"]"
+      "Sony",
+      "55 inch",
+      "LED TV"
     ],
-    "Summary": "Step into a world of breathtaking visuals on the 55-inch 4K Ultra HD screen, where the 4K HDR Processor X1 and Triluminos Pro bring colors to life with stunning clarity, while X-Balanced Speakers and Dolby Atmos create an enveloping, high-fidelity soundscape for an unforgettable home entertainment journey."
+    "Summary": "Step into a world of breathtaking visuals on the 55-inch 4K Ultra HD screen, where the 4K HDR Processor X1 and Triluminos Pro bring colors to life with stunning clarity, while X-Balanced Speakers and Dolby Atmos create an enveloping, high-fidelity soundscape for an unforgettable home entertainment journey.",
+    "Edited - Jamie pls check here": "Indulge in stunning 4K Ultra HD imagery on the 55-inch screen, where the 4K HDR Processor X1 and Triluminos Pro reveal every detail with vivid colors. Dolby Atmos paired with X-Balanced Speakers delivers immersive, high-fidelity sound for a home entertainment experience that captivates every sense.",
+    "Remarks": ""
   },
   {
+    "Category": "Audio Video",
     "SKU": 192828,
+    "Item Name": "Sony BRAVIA 3 UHD K-65S31P",
     "Keywords": [
-      "[\"Sony\"",
-      "\"65-inch\"",
-      "\"4K UHD TV\"]"
+      "Sony",
+      "65-inch",
+      "4K UHD TV"
     ],
-    "Summary": "Immerse yourself in vibrant entertainment on the expansive 65-inch 4K Ultra HD screen, where the 4K HDR Processor X1 and Triluminos Pro deliver stunning, lifelike visuals. Enjoy clear, multidimensional sound from X-Balanced Speakers and Dolby Atmos, ensuring every scene feels real, while its 227W power consumption supports powerful features for a consistent viewing experience."
+    "Summary": "Immerse yourself in vibrant entertainment on the expansive 65-inch 4K Ultra HD screen, where the 4K HDR Processor X1 and Triluminos Pro deliver stunning, lifelike visuals. Enjoy clear, multidimensional sound from X-Balanced Speakers and Dolby Atmos, ensuring every scene feels real, while its 227W power consumption supports powerful features for a consistent viewing experience.",
+    "Edited - Jamie pls check here": "Feel every scene come alive on the 65-inch 4K Ultra HD screen, where the 4K HDR Processor X1 and Triluminos Pro deliver lifelike colors and stunning clarity. X-Balanced Speakers and Dolby Atmos surround you with rich, multidimensional sound, while 227W power consumption ensures consistent, high-performance entertainment.",
+    "Remarks": ""
   },
   {
+    "Category": "Audio Video",
     "SKU": 191871,
+    "Item Name": "Samsung UHD UA55DU8100GXXP",
     "Keywords": [
-      "[\"Samsung\"",
-      "\"55-inch TV\"",
-      "\"LED TV\"]"
+      "Samsung",
+      "55-inch TV",
+      "LED TV"
     ],
-    "Summary": "Experience captivating stories on a 55-inch 4K UHD display, where Dynamic Crystal Color and Crystal Processor 4K deliver vivid, true-to-life visuals. Complementing this, Q-Symphony sound creates an enveloping audio environment, all while its 165-watt operation supports your extended entertainment sessions."
+    "Summary": "Experience captivating stories on a 55-inch 4K UHD display, where Dynamic Crystal Color and Crystal Processor 4K deliver vivid, true-to-life visuals. Complementing this, Q-Symphony sound creates an enveloping audio environment, all while its 165-watt operation supports your extended entertainment sessions.",
+    "Edited - Jamie pls check here": "Soak in stunning 4K imagery on the 55-inch UHD screen, enhanced by Crystal Processor 4K and Dynamic Crystal Color for lifelike clarity. Q-Symphony audio envelops your room, and 165W operation keeps your viewing sessions long, immersive, and worry-free.",
+    "Remarks": ""
   },
   {
+    "Category": "Furniture",
     "SKU": 186428,
+    "Item Name": "Nairobi 3-Seater Sofa Bed",
     "Keywords": [
-      "[\"Sofa Bed\"",
-      "\"Nairobi\"",
-      "\"3-Seater Sofa\"]"
+      "Sofa Bed",
+      "Nairobi",
+      "3-Seater Sofa"
     ],
-    "Summary": "Experience versatile living with the Nairobi 3-Seater Sofa Bed, featuring a reversible chaise and easy pull-out bed conversion for adaptable room layouts and guest comfort. Enjoy clutter-free convenience with integrated cup holders and ample storage in its arms and under the chaise, all wrapped in a stylish light grey fabric design."
+    "Summary": "Experience versatile living with the Nairobi 3-Seater Sofa Bed, featuring a reversible chaise and easy pull-out bed conversion for adaptable room layouts and guest comfort. Enjoy clutter-free convenience with integrated cup holders and ample storage in its arms and under the chaise, all wrapped in a stylish light grey fabric design.",
+    "Edited - Jamie pls check here": "Relax effortlessly on the Nairobi 3-Seater Sofa Bed, featuring a reversible chaise and smooth pull-out bed for adaptable living and guest comfort. Enjoy the ease of integrated cup holders and ample storage beneath the chaise and in the arms, all finished in a chic light grey fabric.",
+    "Remarks": ""
   },
   {
+    "Category": "Furniture",
     "SKU": 173303,
+    "Item Name": "Paige 3-Seater Sofa Bed",
     "Keywords": [
-      "[\"Sofa Bed\"",
-      "\"Abenson Home\"",
-      "\"Paige Sofa\"]"
+      "Sofa Bed",
+      "Abenson Home",
+      "Paige Sofa"
     ],
-    "Summary": "Enjoy versatile comfort with the Paige 3-seater sofa bed, easily converting from a sofa to a bed with three reclined positions. Its durable solid wood frame and comfortable foam are complemented by convenient cup holders and removable armrests, making it a stylish and space-saving addition to any living area."
+    "Summary": "Enjoy versatile comfort with the Paige 3-seater sofa bed, easily converting from a sofa to a bed with three reclined positions. Its durable solid wood frame and comfortable foam are complemented by convenient cup holders and removable armrests, making it a stylish and space-saving addition to any living area.",
+    "Edited - Jamie pls check here": "Sink into versatile comfort with the Paige 3-Seater Sofa Bed, easily transforming from sofa to bed with three reclined positions. Feel the support of its durable solid wood frame and plush foam, while built-in cup holders and removable armrests add convenience and style to any living area.",
+    "Remarks": ""
   },
   {
+    "Category": "Furniture",
     "SKU": "D_192872",
+    "Item Name": "Uratex Trill Hybrid Queen Mattress",
     "Keywords": [
-      "[\"Uratex Trill\"",
-      "\"Hybrid Mattress\"",
-      "\"Queen Size Mattress\"]"
+      "Uratex Trill",
+      "Hybrid Mattress",
+      "Queen Size Mattress"
     ],
-    "Summary": "Elevate your sleep with the Uratex Trill Hybrid Queen Mattress, combining a 10-inch memory foam and pocket spring system for ergonomic spinal support, wrapped in soft knitted fabric, ensuring a plush and restful night's sleep delivered right to your door."
+    "Summary": "Elevate your sleep with the Uratex Trill Hybrid Queen Mattress, combining a 10-inch memory foam and pocket spring system for ergonomic spinal support, wrapped in soft knitted fabric, ensuring a plush and restful night's sleep delivered right to your door.",
+    "Edited - Jamie pls check here": "Enjoy functional elegance with the Marion 6-Seater Dining Set, combining cushioned PVC seats with a durable black tempered glass tabletop. Designed to fit smoothly into any dining room or kitchen, it offers practical, comfortable seating for everyday meals.",
+    "Remarks": ""
   },
   {
+    "Category": "Furniture",
     "SKU": 193993,
+    "Item Name": "Marion",
     "Keywords": [
-      "[\"6-Seater Dining Set\"",
-      "\"Black Dining Table\"",
-      "\"Kitchen Furniture\"]"
+      "6-Seater Dining Set",
+      "Black Dining Table",
+      "Kitchen Furniture"
     ],
-    "Summary": "Elevate your home's ambiance with the Marion 6-Seater Dining Set, designed for comfortable family gatherings with its soft cushion PVC seats and elegant black tempered glass top, seamlessly fitting into your dining room or kitchen for stylish and memorable meals."
+    "Summary": "Elevate your home's ambiance with the Marion 6-Seater Dining Set, designed for comfortable family gatherings with its soft cushion PVC seats and elegant black tempered glass top, seamlessly fitting into your dining room or kitchen for stylish and memorable meals.",
+    "Edited - Jamie pls check here": "Enjoy practical comfort with the Marion 6-Seater Dining Set, combining soft PVC cushions and a stylish black tempered glass tabletop. Its clean design integrates effortlessly into your dining room or kitchen, offering convenient seating for everyone.",
+    "Remarks": ""
   },
   {
+    "Category": "Furniture",
     "SKU": 188826,
+    "Item Name": "Cedric Recliner",
     "Keywords": [
-      "[\"Cedric Recliner\"",
-      "\"Power Massage Chair\"",
-      "\"Living Room Furniture\"]"
+      "Cedric Recliner",
+      "Power Massage Chair",
+      "Living Room Furniture"
     ],
-    "Summary": "Experience luxurious comfort with the Cedric Recliner, featuring a durable polyester soft fabric on a solid wood frame, a manual reclining lever for personalized angles, and a soothing power massage, creating your perfect cozy relaxation haven."
+    "Summary": "Experience luxurious comfort with the Cedric Recliner, featuring a durable polyester soft fabric on a solid wood frame, a manual reclining lever for personalized angles, and a soothing power massage, creating your perfect cozy relaxation haven.",
+    "Edited - Jamie pls check here": "Relax fully in the Cedric Recliner, featuring soft polyester upholstery and a sturdy wood frame. Adjust to your preferred angle with the manual recliner lever, while the power massage gently eases tension for ultimate comfort.",
+    "Remarks": ""
   },
   {
+    "Category": "Furniture",
     "SKU": 196340,
+    "Item Name": "Jethro Sofa Bed",
     "Keywords": [
-      "[\"Jethro\"",
-      "\"Sofa Bed\"",
-      "\"Click-Clack Sofa\"]"
+      "Jethro",
+      "Sofa Bed",
+      "Click-Clack Sofa"
     ],
-    "Summary": "Transform your living space effortlessly with the Jethro Sofa Bed, featuring a sleek click-clack design and durable solid hardwood frame with metal legs, ensuring lasting comfort whether you're relaxing on its high-density foam or accommodating guests on its versatile bed function, all wrapped in elegant black polyester fabric for a stylish, modern look."
+    "Summary": "Transform your living space effortlessly with the Jethro Sofa Bed, featuring a sleek click-clack design and durable solid hardwood frame with metal legs, ensuring lasting comfort whether you're relaxing on its high-density foam or accommodating guests on its versatile bed function, all wrapped in elegant black polyester fabric for a stylish, modern look.",
+    "Edited - Jamie pls check here": "Lounge comfortably on the Jethro Sofa Bed, where a solid hardwood frame, metal legs, and high-density foam offer long-lasting support. Easily switch between sofa and bed with the click-clack design, complemented by stylish black polyester fabric for a sleek finish.",
+    "Remarks": ""
   },
   {
+    "Category": "Furniture",
     "SKU": 166591,
+    "Item Name": "SALEM Nite & Day Single Pull out Bed",
     "Keywords": [
-      "[\"SALEM pull out bed\"",
-      "\"space saving bed\"",
-      "\"single bed\"]"
+      "SALEM pull out bed",
+      "space saving bed",
+      "single bed"
     ],
-    "Summary": "Transform your living space with the SALEM Nite & Day pull-out bed, designed for ergonomic comfort with a Soft Firm feel from its Bonnel Spring and SALEM foam, plus a breathable knitted fabric cover, making it a versatile and space-saving solution ideal for condo living."
+    "Summary": "Transform your living space with the SALEM Nite & Day pull-out bed, designed for ergonomic comfort with a Soft Firm feel from its Bonnel Spring and SALEM foam, plus a breathable knitted fabric cover, making it a versatile and space-saving solution ideal for condo living.",
+    "Edited - Jamie pls check here": "Settle into practical comfort with the SALEM Nite & Day Pull-Out Bed, featuring Bonnel Springs and SALEM foam for soft-firm support. A breathable knitted cover keeps you cool, and its pull-out functionality transforms your space efficiently in compact homes.",
+    "Remarks": ""
   },
   {
+    "Category": "Furniture",
     "SKU": 185391,
+    "Item Name": "Kean Queen Bedframe",
     "Keywords": [
-      "[\"Queen Bedframe\"",
-      "\"Kean Bed\"",
-      "\"Fabric Bed\"]"
+      "Queen Bedframe",
+      "Kean Bed",
+      "Fabric Bed"
     ],
-    "Summary": "Elevate your bedroom's ambiance with the Kean Queen Bedframe, expertly crafted from durable wood and elegant fabric in a light brown finish, offering a stylish and resilient foundation for your sleep, complete with convenient onsite assembly for a seamless setup experience."
+    "Summary": "Elevate your bedroom's ambiance with the Kean Queen Bedframe, expertly crafted from durable wood and elegant fabric in a light brown finish, offering a stylish and resilient foundation for your sleep, complete with convenient onsite assembly for a seamless setup experience.",
+    "Edited - Jamie pls check here": "Lounge in practical luxury with the Kean Queen Bedframe, combining durable wood and soft fabric in a light brown finish. Its strong construction supports your mattress reliably, and convenient assembly makes installation simple and stress-free.",
+    "Remarks": ""
   },
   {
+    "Category": "Furniture",
     "SKU": 166593,
+    "Item Name": "SALEM Nite & Day Double Pull out Bed",
     "Keywords": [
-      "[\"Salem pull out bed\"",
-      "\"Double bed\"",
-      "\"Bonnel spring mattress\"]"
+      "Salem pull out bed",
+      "Double bed",
+      "Bonnel spring mattress"
     ],
-    "Summary": "Experience versatile comfort with the SALEM Nite & Day Double Pull out Bed, featuring a supportive Bonnel spring system and natural abaca fiber for a soft firm feel, providing ergonomic support and a breathable sleep surface, perfect for optimizing space with its convenient pull-out design."
+    "Summary": "Experience versatile comfort with the SALEM Nite & Day Double Pull out Bed, featuring a supportive Bonnel spring system and natural abaca fiber for a soft firm feel, providing ergonomic support and a breathable sleep surface, perfect for optimizing space with its convenient pull-out design.",
+    "Edited - Jamie pls check here": "Enjoy adaptable comfort with the SALEM Nite & Day Double Pull-Out Bed, where supportive Bonnel springs and abaca fiber deliver a soft-firm, ergonomic sleep surface. The pull-out mechanism provides a convenient, space-saving solution for compact rooms.",
+    "Remarks": ""
   },
   {
+    "Category": "Furniture",
     "SKU": 191485,
+    "Item Name": "Calix Sofa Bed",
     "Keywords": [
-      "[\"Sofa Bed\"",
-      "\"Calix\"",
-      "\"abensonHOME\"]"
+      "Sofa Bed",
+      "Calix",
+      "abensonHOME"
     ],
-    "Summary": "Transform your living space effortlessly with the Calix Sofa Bed, featuring a convenient click-clack mechanism, plush high-density foam, and resilient snake-shaped steel springs for enduring comfort, all wrapped in a sleek, stain-free air leather that?s easy to maintain and perfect for stylish, versatile living."
+    "Summary": "Transform your living space effortlessly with the Calix Sofa Bed, featuring a convenient click-clack mechanism, plush high-density foam, and resilient snake-shaped steel springs for enduring comfort, all wrapped in a sleek, stain-free air leather that?s easy to maintain and perfect for stylish, versatile living.",
+    "Edited - Jamie pls check here": "Recline with ease on the Calix Sofa Bed, combining high-density foam and durable steel springs for lasting comfort. Its click-clack mechanism transforms your living area quickly, while stain-resistant air leather keeps it stylish and easy to maintain.",
+    "Remarks": ""
   },
   {
+    "Category": "Gadgets",
     "SKU": 195145,
+    "Item Name": "Apple MacBook Pro (14-inch, M4 Chip, 2024) MW2U3",
     "Keywords": [
-      "[\"Apple MacBook Pro\"",
-      "\"M4 Chip Laptop\"",
-      "\"14-inch MacBook\"]"
+      "Apple MacBook Pro",
+      "M4 Chip Laptop",
+      "14-inch MacBook"
     ],
-    "Summary": "Experience seamless productivity and stunning visuals on the go with this 14-inch MacBook Pro, featuring the powerful M4 Chip for demanding tasks, a brilliant Liquid Retina XDR display, and versatile connectivity including Thunderbolt 5 ports, all powered by an impressive 24-hour battery life for uninterrupted creativity."
+    "Summary": "Experience seamless productivity and stunning visuals on the go with this 14-inch MacBook Pro, featuring the powerful M4 Chip for demanding tasks, a brilliant Liquid Retina XDR display, and versatile connectivity including Thunderbolt 5 ports, all powered by an impressive 24-hour battery life for uninterrupted creativity.",
+    "Edited - Jamie pls check here": "Feel unstoppable with the 14-inch MacBook Pro, where the M4 Chip handles demanding applications with ease. Brilliant Liquid Retina XDR visuals and versatile Thunderbolt 5 connectivity keep your workflow smooth, while a 24-hour battery lets creativity run uninterrupted.",
+    "Remarks": ""
   },
   {
+    "Category": "Gadgets",
     "SKU": 193529,
+    "Item Name": "HP 15-FD0252TU Blue",
     "Keywords": [
-      "[\"HP Laptop\"",
-      "\"HP 15-FD0252TU\"",
-      "\"Intel Core i5 Laptop\"]"
+      "HP Laptop",
+      "HP 15-FD0252TU",
+      "Intel Core i5 Laptop"
     ],
-    "Summary": "Experience smooth multitasking and vibrant visuals with the HP 15-FD0252TU's Intel Core i5 processor and 16GB RAM, complemented by a crisp 15.6-inch Full HD display and a fast 512GB SSD for efficient work and entertainment on the go."
+    "Summary": "Experience smooth multitasking and vibrant visuals with the HP 15-FD0252TU's Intel Core i5 processor and 16GB RAM, complemented by a crisp 15.6-inch Full HD display and a fast 512GB SSD for efficient work and entertainment on the go.",
+    "Edited - Jamie pls check here": "Savor smooth performance on the HP 15-FD0252TU, where the Intel Core i5 processor and 16GB RAM handle multiple tasks with ease. Its vibrant 15.6-inch Full HD display and 512GB SSD ensure efficient, responsive computing wherever you are.",
+    "Remarks": ""
   },
   {
+    "Category": "Gadgets",
     "SKU": 173802,
+    "Item Name": "Apple MacBook Air (M1, 2020) MGN63",
     "Keywords": [
-      "[\"Apple MacBook Air\"",
-      "\"M1 Laptop\"",
-      "\"MGN63\"]"
+      "Apple MacBook Air",
+      "M1 Laptop",
+      "MGN63"
     ],
-    "Summary": "Experience effortless productivity with the ultralight MacBook Air M1, its powerful Apple M1 chip delivering smooth performance and impressive battery life, complemented by a vibrant Retina display and versatile Thunderbolt 4 ports for seamless connections."
+    "Summary": "Experience effortless productivity with the ultralight MacBook Air M1, its powerful Apple M1 chip delivering smooth performance and impressive battery life, complemented by a vibrant Retina display and versatile Thunderbolt 4 ports for seamless connections.",
+    "Edited - Jamie pls check here": "Feel empowered with the MacBook Air M1, combining Apple?s M1 chip with seamless performance. Brilliant Retina visuals and versatile Thunderbolt 4 connectivity enhance every task, while long battery life ensures uninterrupted productivity throughout your day.",
+    "Remarks": ""
   },
   {
+    "Category": "Gadgets",
     "SKU": 188597,
+    "Item Name": "Epson WorkForce Pro WF-C5390",
     "Keywords": [
-      "[\"Epson Printer\"",
-      "\"WF-C5390\"",
-      "\"Wireless Printer\"]"
+      "Epson Printer",
+      "WF-C5390",
+      "Wireless Printer"
     ],
-    "Summary": "Streamline your workflow with the Epson WorkForce Pro WF-C5390, offering high-speed auto-duplex printing and seamless wireless and cloud connectivity for effortless mobile printing. Enjoy efficient, crisp documents with impressive ink yield and bundled starter inks, ensuring productivity from day one."
+    "Summary": "Streamline your workflow with the Epson WorkForce Pro WF-C5390, offering high-speed auto-duplex printing and seamless wireless and cloud connectivity for effortless mobile printing. Enjoy efficient, crisp documents with impressive ink yield and bundled starter inks, ensuring productivity from day one.",
+    "Edited - Jamie pls check here": "Enjoy hassle-free printing with the Epson WorkForce Pro WF-C5390, where fast auto-duplex performance meets wireless and cloud convenience. High ink yield and included starter inks deliver efficient, professional-quality documents from the very first page.",
+    "Remarks": ""
   },
   {
+    "Category": "Gadgets",
     "SKU": 193628,
+    "Item Name": "ASUS TUF Gaming A15 FA506NFR-HN005W Black",
     "Keywords": [
-      "[\"ASUS Gaming Laptop\"",
-      "\"TUF Gaming A15 FA506NFR\"",
-      "\"RTX 2050\"]"
+      "ASUS Gaming Laptop",
+      "TUF Gaming A15 FA506NFR",
+      "RTX 2050"
     ],
-    "Summary": "Dive into immersive gaming with the 15.6-inch Full HD 144Hz display, powered by the AMD Ryzen? 7 processor and NVIDIA? GeForce RTX? 2050 graphics, ensuring smooth, fluid visuals and responsive gameplay for all your digital adventures."
+    "Summary": "Dive into immersive gaming with the 15.6-inch Full HD 144Hz display, powered by the AMD Ryzen? 7 processor and NVIDIA? GeForce RTX? 2050 graphics, ensuring smooth, fluid visuals and responsive gameplay for all your digital adventures.",
+    "Edited - Jamie pls check here": "Relish fast, fluid gameplay on the 15.6-inch Full HD 144Hz display, featuring AMD Ryzen? 7 and NVIDIA? GeForce RTX? 2050 graphics. Smooth visuals and responsive controls make every action, battle, and adventure feel vividly real and immersive.",
+    "Remarks": ""
   },
   {
+    "Category": "Gadgets",
     "SKU": 190863,
+    "Item Name": "Huawei MateBook D16 MCLF-W5651 Silver",
     "Keywords": [
-      "[\"Huawei MateBook D16\"",
-      "\"16-inch Laptop\"",
-      "\"Intel Core i5 Laptop\"]"
+      "Huawei MateBook D16",
+      "16-inch Laptop",
+      "Intel Core i5 Laptop"
     ],
-    "Summary": "Experience seamless productivity with the Huawei MateBook D16, featuring a spacious 16-inch Full HD display for vibrant visuals and an Intel Core i5-12450H processor paired with 16GB RAM for smooth multitasking, all within a surprisingly portable 1.7kg design."
+    "Summary": "Experience seamless productivity with the Huawei MateBook D16, featuring a spacious 16-inch Full HD display for vibrant visuals and an Intel Core i5-12450H processor paired with 16GB RAM for smooth multitasking, all within a surprisingly portable 1.7kg design.",
+    "Edited - Jamie pls check here": "Engage fully in tasks with the Huawei MateBook D16, where Intel Core i5-12450H processing and 16GB RAM enable smooth multitasking. Enjoy vibrant visuals on the 16-inch Full HD display, and take advantage of its surprisingly light 1.7kg design for effortless mobility.",
+    "Remarks": ""
   },
   {
+    "Category": "Gadgets",
     "SKU": 190862,
+    "Item Name": "Huawei MateBook D16 MCLF-W5851 Silver",
     "Keywords": [
-      "[\"Huawei MateBook D16\"",
-      "\"16-inch laptop\"",
-      "\"Intel Core i5 notebook\"]"
+      "Huawei MateBook D16",
+      "16-inch laptop",
+      "Intel Core i5 notebook"
     ],
-    "Summary": "Experience smooth multitasking and vibrant visuals on the Huawei MateBook D16's expansive 16-inch Full HD display, powered by an Intel Core i5 processor and 8GB RAM for seamless productivity on the go, thanks to its portable 1.7kg design."
+    "Summary": "Experience smooth multitasking and vibrant visuals on the Huawei MateBook D16's expansive 16-inch Full HD display, powered by an Intel Core i5 processor and 8GB RAM for seamless productivity on the go, thanks to its portable 1.7kg design.",
+    "Edited - Jamie pls check here": "Glide through work and entertainment on the Huawei MateBook D16, powered by Intel Core i5 and 8GB RAM for fluid multitasking. Crisp 16-inch Full HD visuals and a portable 1.7kg design let you enjoy productivity wherever you go.",
+    "Remarks": ""
   },
   {
+    "Category": "Gadgets",
     "SKU": 176920,
+    "Item Name": "Epson EcoTank L5290",
     "Keywords": [
-      "[\"Epson EcoTank L5290\"",
-      "\"All-in-One Ink Tank Printer\"",
-      "\"Wireless Printer\"]"
+      "Epson EcoTank L5290",
+      "All-in-One Ink Tank Printer",
+      "Wireless Printer"
     ],
-    "Summary": "Experience seamless productivity with the Epson EcoTank L5290, an all-in-one wireless ink tank printer designed for efficient home or office use, offering fast printing speeds and high page yield with included ink bottles for cost-effective, convenient operations."
+    "Summary": "Experience seamless productivity with the Epson EcoTank L5290, an all-in-one wireless ink tank printer designed for efficient home or office use, offering fast printing speeds and high page yield with included ink bottles for cost-effective, convenient operations.",
+    "Edited - Jamie pls check here": "Delight in effortless printing with the Epson EcoTank L5290, where fast printing speeds and high page yield deliver efficient results. Its all-in-one wireless design, paired with included ink bottles, ensures cost-effective and convenient operations for home or office.",
+    "Remarks": ""
   },
   {
+    "Category": "Gadgets",
     "SKU": 196336,
+    "Item Name": "Lenovo IdeaPad Slim 3 83ER00KVPH Gray",
     "Keywords": [
-      "[\"Lenovo IdeaPad Slim 3\"",
-      "\"i5 Laptop Philippines\"",
-      "\"16GB RAM Laptop\"]"
+      "Lenovo IdeaPad Slim 3",
+      "i5 Laptop Philippines",
+      "16GB RAM Laptop"
     ],
-    "Summary": "Power through your daily tasks with the responsive Intel Core i5-12450H processor, ample 16GB RAM, and a fast 512GB SSD, all brought to life on a clear 15.6-inch Full HD display, ensuring an efficient and visually engaging experience wherever your day takes you."
+    "Summary": "Power through your daily tasks with the responsive Intel Core i5-12450H processor, ample 16GB RAM, and a fast 512GB SSD, all brought to life on a clear 15.6-inch Full HD display, ensuring an efficient and visually engaging experience wherever your day takes you.",
+    "Edited - Jamie pls check here": "Savor smooth multitasking on the 15.6-inch Full HD display, powered by the Intel Core i5-12450H processor, 16GB RAM, and 512GB SSD. Every task flows effortlessly, with crisp visuals and fast performance that make your day productive and satisfying.",
+    "Remarks": ""
   },
   {
+    "Category": "Gadgets",
     "SKU": 194936,
+    "Item Name": "Apple MacBook Air (13-inch, M3 Chip, 2024) MC8G4PP/A",
     "Keywords": [
-      "[\"Apple MacBook Air\"",
-      "\"M3 Chip Laptop\"",
-      "\"13-inch MacBook\"]"
+      "Apple MacBook Air",
+      "M3 Chip Laptop",
+      "13-inch MacBook"
     ],
-    "Summary": "Experience seamless productivity and stunning visuals on the superportable 13-inch MacBook Air, featuring the powerful M3 chip, a vibrant Liquid Retina display, versatile connectivity with Thunderbolt and Wi-Fi 6E, all powered by an impressive up to 18-hour battery life, letting you work and play anywhere."
+    "Summary": "Experience seamless productivity and stunning visuals on the superportable 13-inch MacBook Air, featuring the powerful M3 chip, a vibrant Liquid Retina display, versatile connectivity with Thunderbolt and Wi-Fi 6E, all powered by an impressive up to 18-hour battery life, letting you work and play anywhere.",
+    "Edited - Jamie pls check here": "Engage fully with the 13-inch MacBook Air, powered by the M3 chip for seamless multitasking. Its Liquid Retina display delivers stunning clarity, while Thunderbolt, Wi-Fi 6E, and up to 18-hour battery life let you enjoy work and play anywhere.",
+    "Remarks": ""
   },
   {
+    "Category": "Hardware",
     "SKU": 184003,
+    "Item Name": "GE VOC300 Starter Kit",
     "Keywords": [
-      "[\"Philippine water purifier\"",
-      "\"GE water filter\"",
-      "\"Clean drinking water\"]"
+      "Philippine water purifier",
+      "GE water filter",
+      "Clean drinking water"
     ],
-    "Summary": "Experience pure, safe drinking water with the GE VOC300 Starter Kit, featuring advanced Micro-Pure? Filter Technology that removes microscopic particles, ensuring a healthier home. Its compact design fits seamlessly into your space, providing 300 gallons of clean water with easy, four-step installation, making healthy hydration simple."
+    "Summary": "Experience pure, safe drinking water with the GE VOC300 Starter Kit, featuring advanced Micro-Pure? Filter Technology that removes microscopic particles, ensuring a healthier home. Its compact design fits seamlessly into your space, providing 300 gallons of clean water with easy, four-step installation, making healthy hydration simple.",
+    "Edited - Jamie pls check here": "Enjoy clean, refreshing water with the GE VOC300 Starter Kit, where Micro-Pure? Filter Technology removes tiny particles for safer drinking. Its compact design integrates seamlessly into your space, giving 300 gallons of pure water with effortless four-step installation.",
+    "Remarks": ""
   },
   {
+    "Category": "Hardware",
     "SKU": 183211,
+    "Item Name": "Surestep Dura Lite Ladder FT-8",
     "Keywords": [
-      "[\"Surestep\"",
-      "\"Ladder\"",
-      "\"Handrail\"]"
+      "Surestep",
+      "Ladder",
+      "Handrail"
     ],
-    "Summary": "Reach new heights confidently with the Surestep Dura Lite Ladder, crafted from durable aluminum with an ANSI Type 1 rating for 250lbs capacity, plus a handy handrail for stability and a featherweight design for effortless portability."
+    "Summary": "Reach new heights confidently with the Surestep Dura Lite Ladder, crafted from durable aluminum with an ANSI Type 1 rating for 250lbs capacity, plus a handy handrail for stability and a featherweight design for effortless portability.",
+    "Edited - Jamie pls check here": "Feel secure while climbing with the Surestep Dura Lite Ladder, where sturdy aluminum construction and an ANSI Type 1 rating support up to 250lbs. The convenient handrail and lightweight design let you reach high spaces with ease and confidence.",
+    "Remarks": ""
   },
   {
+    "Category": "Hardware",
     "SKU": 108236,
+    "Item Name": "OMNI WED-340",
     "Keywords": [
-      "[\"OMNI\"",
-      "\"Extension Cord\"",
-      "\"Safety Circuit Breaker\"]"
+      "OMNI",
+      "Extension Cord",
+      "Safety Circuit Breaker"
     ],
-    "Summary": "Power your devices safely with the OMNI WED-340, featuring four durable sockets with individual switches for energy management, a 1.83-meter cord, and built-in safety features like a circuit breaker and fire-retardant materials for peace of mind."
+    "Summary": "Power your devices safely with the OMNI WED-340, featuring four durable sockets with individual switches for energy management, a 1.83-meter cord, and built-in safety features like a circuit breaker and fire-retardant materials for peace of mind.",
+    "Edited - Jamie pls check here": "Enjoy secure and convenient device management with the OMNI WED-340, where four sockets with individual switches let you control energy usage. Its 1.83-meter cord and safety features, like a circuit breaker and fire-retardant casing, keep your home protected.",
+    "Remarks": ""
   },
   {
+    "Category": "Hardware",
     "SKU": 154515,
+    "Item Name": "OMNI WTE-512",
     "Keywords": [
-      "[\"OMNI\"",
-      "\"Tower Extension Cord\"",
-      "\"Circuit Breaker\"]"
+      "OMNI",
+      "Tower Extension Cord",
+      "Circuit Breaker"
     ],
-    "Summary": "Power up your devices with the OMNI WTE-512, featuring 12 individual switched sockets for convenient control and a generous 1.83-meter cord. Built with impact-resistant, fire-retardant materials and a safety circuit breaker, it ensures reliable, long-lasting power delivery for all your electronics."
+    "Summary": "Power up your devices with the OMNI WTE-512, featuring 12 individual switched sockets for convenient control and a generous 1.83-meter cord. Built with impact-resistant, fire-retardant materials and a safety circuit breaker, it ensures reliable, long-lasting power delivery for all your electronics.",
+    "Edited - Jamie pls check here": "Delight in secure and convenient device management with the OMNI WTE-512, where 12 switched sockets offer control over every plug. Impact-resistant, fire-retardant construction and a built-in circuit breaker, plus a 1.83-meter cord, ensure reliable, long-term power.",
+    "Remarks": ""
   },
   {
+    "Category": "Hardware",
     "SKU": 178143,
+    "Item Name": "OMNI Travel Extension Cord 3-Gang + USB-301",
     "Keywords": [
-      "[\"OMNI\"",
-      "\"Travel Extension Cord\"",
-      "\"USB Port\"]"
+      "OMNI",
+      "Travel Extension Cord",
+      "USB Port"
     ],
-    "Summary": "An integrated on/off switch and highly conductive copper strips help manage power use, while its durable, impact-resistant design with three universal outlets and a 2A fast-charging USB port provides reliable connectivity, all in a compact, travel-friendly form."
+    "Summary": "An integrated on/off switch and highly conductive copper strips help manage power use, while its durable, impact-resistant design with three universal outlets and a 2A fast-charging USB port provides reliable connectivity, all in a compact, travel-friendly form.",
+    "Edited - Jamie pls check here": "Enjoy hassle-free power management with the built-in on/off switch and efficient copper strips, reducing energy waste. The impact-resistant design, three universal outlets, and fast-charging 2A USB port provide dependable connectivity wherever you go.",
+    "Remarks": ""
   },
   {
+    "Category": "Hardware",
     "SKU": 178148,
+    "Item Name": "OMNI WEU-118-PK UNI10",
     "Keywords": [
-      "[\"OMNI\"",
-      "\"Extension Cord\"",
-      "\"Universal Outlet\"]"
+      "OMNI",
+      "Extension Cord",
+      "Universal Outlet"
     ],
-    "Summary": "Power up multiple devices safely with this OMNI extension cord, featuring 10 universal sockets, individual switches for power control, and a durable 1.83-meter fire-retardant design with built-in lightning protection for reliable everyday use."
+    "Summary": "Power up multiple devices safely with this OMNI extension cord, featuring 10 universal sockets, individual switches for power control, and a durable 1.83-meter fire-retardant design with built-in lightning protection for reliable everyday use.",
+    "Edited - Jamie pls check here": "Feel confident powering multiple devices with this OMNI extension cord, where 10 universal sockets and individual switches let you control energy use. Its durable, 1.83-meter fire-retardant design with built-in lightning protection ensures safe and reliable everyday performance.",
+    "Remarks": ""
   },
   {
+    "Category": "Hardware",
     "SKU": 183999,
+    "Item Name": "Pentair QC-1000 Counter Top System",
     "Keywords": [
-      "[\"Countertop water filter\"",
-      "\"Pentair water purifier\"",
-      "\"Carbon filter system\"]"
+      "Countertop water filter",
+      "Pentair water purifier",
+      "Carbon filter system"
     ],
-    "Summary": "Experience clean, refreshing water directly from your counter with this space-saving carbon filter system, designed to eliminate particles 5 microns and larger without needing electricity, saving you energy and freeing up valuable floor space from bulky water gallons."
+    "Summary": "Experience clean, refreshing water directly from your counter with this space-saving carbon filter system, designed to eliminate particles 5 microns and larger without needing electricity, saving you energy and freeing up valuable floor space from bulky water gallons.",
+    "Edited - Jamie pls check here": "Savor clean, refreshing water straight from your counter, where the space-saving carbon filter system removes particles 5 microns and larger. Its electricity-free design saves energy while freeing up floor space from bulky water gallons.",
+    "Remarks": ""
   },
   {
+    "Category": "Hardware",
     "SKU": 178149,
+    "Item Name": "OMNI WEW-15M/U",
     "Keywords": [
-      "[\"OMNI\"",
-      "\"Extension Wheel\"",
-      "\"Circuit Breaker\"]"
+      "OMNI",
+      "Extension Wheel",
+      "Circuit Breaker"
     ],
-    "Summary": "Ensure reliable power for your home or workshop with the OMNI Extension Wheel, offering a generous 15-meter cord and three durable outlets, complemented by a built-in safety circuit breaker and lightning protector to safeguard your appliances."
+    "Summary": "Ensure reliable power for your home or workshop with the OMNI Extension Wheel, offering a generous 15-meter cord and three durable outlets, complemented by a built-in safety circuit breaker and lightning protector to safeguard your appliances.",
+    "Edited - Jamie pls check here": "Feel confident powering your home or workshop with the OMNI Extension Wheel, where a generous 15-meter cord and three durable outlets provide versatile connectivity. Built-in safety features, including a circuit breaker and lightning protector, safeguard your appliances every time.",
+    "Remarks": ""
   },
   {
+    "Category": "Hardware",
     "SKU": 155375,
+    "Item Name": "OMNI WER-103-PK",
     "Keywords": [
-      "[\"OMNI\"",
-      "\"Extension Cord\"",
-      "\"Universal Outlet\"]"
+      "OMNI",
+      "Extension Cord",
+      "Universal Outlet"
     ],
-    "Summary": "Get reliable power for your devices with this OMNI universal outlet extension cord, offering three durable, impact-resistant sockets with a built-in safety circuit breaker and lightning protector, all on a convenient 1.83-meter cord."
+    "Summary": "Get reliable power for your devices with this OMNI universal outlet extension cord, offering three durable, impact-resistant sockets with a built-in safety circuit breaker and lightning protector, all on a convenient 1.83-meter cord.",
+    "Edited - Jamie pls check here": "Enjoy dependable electricity with this OMNI extension cord, where three robust, impact-resistant sockets deliver stable power. The built-in safety circuit breaker and lightning protector keep your devices protected on its convenient 1.83-meter cord.",
+    "Remarks": ""
   },
   {
+    "Category": "Hardware",
     "SKU": 154507,
+    "Item Name": "OMNI WUS-102-PK",
     "Keywords": [
-      "[\"OMNI\"",
-      "\"Universal Adapter\"",
-      "\"Power Switch\"]"
+      "OMNI",
+      "Universal Adapter",
+      "Power Switch"
     ],
-    "Summary": "Experience convenience and savings with this OMNI Universal Adapter featuring a built-in switch for effortless power control, helping reduce energy consumption. Its durable copper internals ensure a reliable, long-lasting connection that maintains grip for thousands of uses, adapting to various appliances."
+    "Summary": "Experience convenience and savings with this OMNI Universal Adapter featuring a built-in switch for effortless power control, helping reduce energy consumption. Its durable copper internals ensure a reliable, long-lasting connection that maintains grip for thousands of uses, adapting to various appliances.",
+    "Edited - Jamie pls check here": "Delight in convenient and energy-efficient power management with the OMNI Universal Adapter, featuring a built-in switch for effortless control. Copper internals deliver a secure, durable connection adaptable to many appliances.",
+    "Remarks": ""
   },
   {
+    "Category": "Home Appliance",
     "SKU": 149999,
+    "Item Name": "LG GR-B202SQBB",
     "Keywords": [
-      "[\"LG\"",
-      "\"Refrigerator\"",
-      "\"Smart Inverter\"]"
+      "LG",
+      "Refrigerator",
+      "Smart Inverter"
     ],
-    "Summary": "Enjoy long-lasting food freshness and substantial energy savings with this LG 7.2 cu.ft No Frost refrigerator. Its Smart Inverter Compressor and Multi Airflow system work together for efficient cooling, while the Moist Balance Crisper ensures produce stays vibrant, built for dependable daily use."
+    "Summary": "Enjoy long-lasting food freshness and substantial energy savings with this LG 7.2 cu.ft No Frost refrigerator. Its Smart Inverter Compressor and Multi Airflow system work together for efficient cooling, while the Moist Balance Crisper ensures produce stays vibrant, built for dependable daily use.",
+    "Edited - Jamie pls check here": "Relish every meal with ingredients stored at peak freshness inside the LG 7.2?cu.ft No Frost refrigerator. Its Smart Inverter Compressor and Multi Airflow system ensure efficient cooling, while the Moist Balance Crisper preserves produce vibrancy and energy-efficient performance.",
+    "Remarks": ""
   },
   {
+    "Category": "Home Appliance",
     "SKU": 172572,
+    "Item Name": "Panasonic NA-FD85X1HRM",
     "Keywords": [
-      "[\"Panasonic\"",
-      "\"Top Load Washer\"",
-      "\"StainMaster\"]"
+      "Panasonic",
+      "Top Load Washer",
+      "StainMaster"
     ],
-    "Summary": "Transform your laundry routine with the Panasonic NA-FD85X1HRM, where TD Inverter technology delivers impressive electricity savings, while the powerful Water Bazooka, StainMaster, and ActiveFoam system work together to deeply penetrate and lift stubborn dirt, ensuring your clothes receive exceptional care and emerge spotlessly clean, saving you time and effort."
+    "Summary": "Transform your laundry routine with the Panasonic NA-FD85X1HRM, where TD Inverter technology delivers impressive electricity savings, while the powerful Water Bazooka, StainMaster, and ActiveFoam system work together to deeply penetrate and lift stubborn dirt, ensuring your clothes receive exceptional care and emerge spotlessly clean, saving you time and effort.",
+    "Edited - Jamie pls check here": "Indulge in efficient, spotless laundry with the Panasonic NA-FD85X1HRM. TD Inverter technology minimizes electricity use, while the Water Bazooka, StainMaster, and ActiveFoam systems deeply clean fabrics, ensuring garments emerge fresh, stain-free, and cared for with minimal effort.",
+    "Remarks": ""
   },
   {
+    "Category": "Home Appliance",
     "SKU": 189107,
+    "Item Name": "Panasonic NR-BP242VS",
     "Keywords": [
-      "[\"Panasonic\"",
-      "\"Inverter Refrigerator\"",
-      "\"No Frost\"]"
+      "Panasonic",
+      "Inverter Refrigerator",
+      "No Frost"
     ],
-    "Summary": "Experience efficient cooling and significant energy savings with the 75-watt Inverter + ECONAVI Technology, ensuring your 8.6 cu.ft of food stays fresh longer thanks to the No Frost system and Fresh Safe vegetable case, all built with durable tempered shelves and a long-lasting compressor."
+    "Summary": "Experience efficient cooling and significant energy savings with the 75-watt Inverter + ECONAVI Technology, ensuring your 8.6 cu.ft of food stays fresh longer thanks to the No Frost system and Fresh Safe vegetable case, all built with durable tempered shelves and a long-lasting compressor.",
+    "Edited - Jamie pls check here": "Enjoy hassle-free, fresh storage with the 8.6?cu.ft refrigerator, featuring 75W Inverter + ECONAVI Technology for efficient energy use. Its No Frost system and Fresh Safe vegetable case keep produce lively, while durable shelves and a reliable compressor support everyday use.",
+    "Remarks": ""
   },
   {
+    "Category": "Home Appliance",
     "SKU": 196490,
+    "Item Name": "Panasonic NR-BP273VE",
     "Keywords": [
-      "[\"Panasonic\"",
-      "\"Refrigerator\"",
-      "\"Inverter\"]"
+      "Panasonic",
+      "Refrigerator",
+      "Inverter"
     ],
-    "Summary": "Experience incredible energy savings with the Inverter and Econavi technology, consuming just 65 watts, ensuring your 9.5 cu.ft of food stays fresh with Ag Clean and Prime Cooling, all while benefiting from the durability of a 12-year compressor warranty."
+    "Summary": "Experience incredible energy savings with the Inverter and Econavi technology, consuming just 65 watts, ensuring your 9.5 cu.ft of food stays fresh with Ag Clean and Prime Cooling, all while benefiting from the durability of a 12-year compressor warranty.",
+    "Edited - Jamie pls check here": "Enjoy effortless freshness with the 9.5?cu.ft refrigerator, where Inverter and Econavi technology ensure low 65W energy use. Ag Clean and Prime Cooling maintain food quality, combined with a 12-year compressor warranty for dependable performance.",
+    "Remarks": ""
   },
   {
+    "Category": "Home Appliance",
     "SKU": 170825,
+    "Item Name": "Panasonic NR BV320XSPH",
     "Keywords": [
-      "[\"Panasonic\"",
-      "\"Refrigerator\"",
-      "\"Inverter Fridge\"]"
+      "Panasonic",
+      "Refrigerator",
+      "Inverter Fridge"
     ],
-    "Summary": "Experience consistent freshness with Prime Fresh+ and Ag Clean, while the 10.2 cu.ft capacity and durable tempered glass shelves offer ample, organized storage. Enjoy significant energy savings thanks to the Inverter and Econavi sensors, ensuring your food stays fresh longer with intelligent cooling."
+    "Summary": "Experience consistent freshness with Prime Fresh+ and Ag Clean, while the 10.2 cu.ft capacity and durable tempered glass shelves offer ample, organized storage. Enjoy significant energy savings thanks to the Inverter and Econavi sensors, ensuring your food stays fresh longer with intelligent cooling.",
+    "Edited - Jamie pls check here": "Delight in long-lasting freshness with Prime Fresh+ and Ag Clean, supported by 10.2?cu.ft capacity and sturdy tempered glass shelves for organized storage. Inverter and Econavi sensors intelligently reduce energy consumption while keeping food fresh.",
+    "Remarks": ""
   },
   {
+    "Category": "Home Appliance",
     "SKU": 184545,
+    "Item Name": "Panasonic NR-BP272VD",
     "Keywords": [
-      "[\"Panasonic Refrigerator\"",
-      "\"Inverter Fridge\"",
-      "\"No Frost\"]"
+      "Panasonic Refrigerator",
+      "Inverter Fridge",
+      "No Frost"
     ],
-    "Summary": "Experience lasting freshness and significant savings with this 9.5 cu.ft Inverter refrigerator, featuring Prime Cooling+ and Ag Clean for pristine food, complemented by Econavi and a low 65-watt power consumption for efficient, worry-free operation."
+    "Summary": "Experience lasting freshness and significant savings with this 9.5 cu.ft Inverter refrigerator, featuring Prime Cooling+ and Ag Clean for pristine food, complemented by Econavi and a low 65-watt power consumption for efficient, worry-free operation.",
+    "Edited - Jamie pls check here": "Relish fresh, vibrant food with Prime Cooling+ and Ag Clean, complemented by Econavi and a low 65W energy consumption. The 9.5?cu.ft Inverter refrigerator maintains consistent freshness while saving energy.",
+    "Remarks": ""
   },
   {
+    "Category": "Home Appliance",
     "SKU": 185655,
+    "Item Name": "Panasonic NA F85A9HRM",
     "Keywords": [
-      "[\"Panasonic\"",
-      "\"Top Load Washer\"",
-      "\"Stain Master\"]"
+      "Panasonic",
+      "Top Load Washer",
+      "Stain Master"
     ],
-    "Summary": "Simplify laundry days with the Panasonic NA F85A9HRM, engineered with Stain Master for thorough cleaning and Aroma+ for enduring freshness. Its 8.5kg capacity and Sazanami Drum ensure efficient, garment-friendly washes that respect your clothes, contributing to their longevity and saving you precious time."
+    "Summary": "Simplify laundry days with the Panasonic NA F85A9HRM, engineered with Stain Master for thorough cleaning and Aroma+ for enduring freshness. Its 8.5kg capacity and Sazanami Drum ensure efficient, garment-friendly washes that respect your clothes, contributing to their longevity and saving you precious time.",
+    "Edited - Jamie pls check here": "Immerse in spotless, fragrant laundry with the Panasonic NA F85A9HRM. Stain Master lifts stubborn dirt, Aroma+ maintains lasting freshness, and the 8.5?kg Sazanami Drum protects garments with efficient, fabric-friendly washes.",
+    "Remarks": ""
   },
   {
+    "Category": "Home Appliance",
     "SKU": 193352,
+    "Item Name": "LG FB1207S6W",
     "Keywords": [
-      "[\"LG\"",
-      "\"Front Load Washer\"",
-      "\"Inverter Direct Drive\"]"
+      "LG",
+      "Front Load Washer",
+      "Inverter Direct Drive"
     ],
-    "Summary": "Experience effortless laundry with the LG 7kg Front Load Washer, where its durable Inverter Direct Drive ensures significant electricity savings and quiet operation, while 6 Motion Technology and Allergy Care gently protect fabrics and reduce allergens, complemented by an 80% spin dry and Quick Wash for time-saving convenience."
+    "Summary": "Experience effortless laundry with the LG 7kg Front Load Washer, where its durable Inverter Direct Drive ensures significant electricity savings and quiet operation, while 6 Motion Technology and Allergy Care gently protect fabrics and reduce allergens, complemented by an 80% spin dry and Quick Wash for time-saving convenience.",
+    "Edited - Jamie pls check here": "Enjoy consistently clean and gentle laundry with the LG 7?kg Front Load Washer. Energy-efficient Inverter Direct Drive reduces electricity use and noise, 6 Motion Technology and Allergy Care maintain fabric integrity, and 80% spin dry with Quick Wash streamlines washing cycles.",
+    "Remarks": ""
   },
   {
+    "Category": "Home Appliance",
     "SKU": 184544,
+    "Item Name": "Panasonic NR-BP292VD",
     "Keywords": [
-      "[\"Panasonic\"",
-      "\"Refrigerator\"",
-      "\"Inverter\"]"
+      "Panasonic",
+      "Refrigerator",
+      "Inverter"
     ],
-    "Summary": "Enjoy lasting freshness and remarkable savings with this 10.4 cu.ft No Frost inverter refrigerator, featuring Econavi for smart energy use and Ag Clean to keep your food pristine, all while designed for reliable performance."
+    "Summary": "Enjoy lasting freshness and remarkable savings with this 10.4 cu.ft No Frost inverter refrigerator, featuring Econavi for smart energy use and Ag Clean to keep your food pristine, all while designed for reliable performance.",
+    "Edited - Jamie pls check here": "Feel confidence in food preservation with Ag Clean keeping ingredients pristine, complemented by Econavi?s intelligent energy optimization. The 10.4?cu.ft No Frost inverter refrigerator guarantees lasting freshness and reliable operation.",
+    "Remarks": ""
   },
   {
+    "Category": "Home Appliance",
     "SKU": 189461,
+    "Item Name": "TCL TWF105 C20",
     "Keywords": [
-      "[\"TCL\"",
-      "\"Combo Washer Dryer\"",
-      "\"Inverter\"]"
+      "TCL",
+      "Combo Washer Dryer",
+      "Inverter"
     ],
-    "Summary": "Enjoy efficient laundry with this TCL combo washer and dryer, featuring a durable DD Inverter Motor for quiet, energy-saving cycles, while the Honeycomb Crystal Drum and Steam Wash provide superior fabric care; smart functions like delay start make laundry truly convenient and time-saving for your busy schedule."
+    "Summary": "Enjoy efficient laundry with this TCL combo washer and dryer, featuring a durable DD Inverter Motor for quiet, energy-saving cycles, while the Honeycomb Crystal Drum and Steam Wash provide superior fabric care; smart functions like delay start make laundry truly convenient and time-saving for your busy schedule.",
+    "Edited - Jamie pls check here": "Feel the ease of efficient laundry with the TCL combo washer-dryer. DD Inverter Motor reduces energy use and noise, Honeycomb Crystal Drum and Steam Wash preserve fabrics, and Delay Start provides convenient, time-saving operation.",
+    "Remarks": ""
   },
   {
+    "Category": "Mobile",
     "SKU": 194217,
+    "Item Name": "Apple iPhone 16 Pro Max",
     "Keywords": [
-      "[\"Apple\"",
-      "\"iPhone 16 Pro Max\"",
-      "\"A18 Pro Bionic\"]"
+      "Apple",
+      "iPhone 16 Pro Max",
+      "A18 Pro Bionic"
     ],
-    "Summary": "Elevate your everyday with the Apple iPhone 16 Pro Max, featuring a durable titanium design and 256GB storage for all your memories. The A18 Pro Bionic chip powers remarkable 48MP camera capabilities and 4K 120 fps video, complemented by flexible charging options to keep you connected longer."
+    "Summary": "Elevate your everyday with the Apple iPhone 16 Pro Max, featuring a durable titanium design and 256GB storage for all your memories. The A18 Pro Bionic chip powers remarkable 48MP camera capabilities and 4K 120 fps video, complemented by flexible charging options to keep you connected longer.",
+    "Edited - Jamie pls check here": "Feel unmatched speed with the iPhone 16 Pro Max. A18 Pro Bionic chip ensures effortless performance across apps and games, 256GB storage safeguards memories, and titanium durability provides long-lasting protection. Capture vivid moments with the 48MP camera and 4K 120?fps video, all supported by flexible charging for all-day connectivity.",
+    "Remarks": ""
   },
   {
+    "Category": "Mobile",
     "SKU": 177252,
+    "Item Name": "Apple iPhone 13",
     "Keywords": [
-      "[\"Apple\"",
-      "\"iPhone 13\"",
-      "\"A15 Bionic chip\"]"
+      "Apple",
+      "iPhone 13",
+      "A15 Bionic chip"
     ],
-    "Summary": "Experience seamless performance with the A15 Bionic chip and capture breathtaking moments using the advanced 12MP dual-camera system, including Cinematic mode. Store all your memories on 128GB, while the durable Ceramic Shield and IP68 water resistance offer lasting peace of mind, complemented by faster MagSafe wireless charging."
+    "Summary": "Experience seamless performance with the A15 Bionic chip and capture breathtaking moments using the advanced 12MP dual-camera system, including Cinematic mode. Store all your memories on 128GB, while the durable Ceramic Shield and IP68 water resistance offer lasting peace of mind, complemented by faster MagSafe wireless charging.",
+    "Edited - Jamie pls check here": "Delight in seamless operation with the A15 Bionic chip, while the advanced 12MP dual-camera system captures vivid photos and smooth Cinematic videos. Ceramic Shield and IP68 rating protect against daily wear, 128GB storage secures memories, and MagSafe wireless charging keeps the device ready whenever needed.",
+    "Remarks": ""
   },
   {
+    "Category": "Mobile",
     "SKU": 177251,
+    "Item Name": "Apple iPhone 13",
     "Keywords": [
-      "[\"Apple\"",
-      "\"iPhone 13\"",
-      "\"A15 Bionic\"]"
+      "Apple",
+      "iPhone 13",
+      "A15 Bionic"
     ],
-    "Summary": "Enjoy smooth performance and vibrant visuals with the iPhone 13, powered by the A15 Bionic chip for rapid responsiveness. Capture stunning photos and videos with its advanced dual-camera system, securely store everything in 128GB, and appreciate its durable Ceramic Shield design with convenient MagSafe charging."
+    "Summary": "Enjoy smooth performance and vibrant visuals with the iPhone 13, powered by the A15 Bionic chip for rapid responsiveness. Capture stunning photos and videos with its advanced dual-camera system, securely store everything in 128GB, and appreciate its durable Ceramic Shield design with convenient MagSafe charging.",
+    "Edited - Jamie pls check here": "Feel effortless speed with the iPhone 13, powered by the A15 Bionic chip for fluid performance. The advanced dual-camera system captures stunning photos and videos, 128GB storage safeguards content, and the Ceramic Shield with MagSafe charging ensures durability and convenience.",
+    "Remarks": ""
   },
   {
+    "Category": "Mobile",
     "SKU": 196774,
+    "Item Name": "Apple iPad (11th Generation) Wi-Fi",
     "Keywords": [
-      "[\"Apple iPad\"",
-      "\"iPad 11th Gen\"",
-      "\"A16 Bionic Chip\"]"
+      "Apple iPad",
+      "iPad 11th Gen",
+      "A16 Bionic Chip"
     ],
-    "Summary": "Experience seamless productivity and vibrant creativity with the Apple iPad 11th Generation, powered by the A16 Bionic chip for smooth performance and an all-day battery life that keeps you going. Its gorgeous 11-inch Liquid Retina display with True Tone brings visuals to life, beautifully complementing your artistic endeavors and enhancing work, especially when paired with Apple Pencil or Magic Keyboard Folio."
+    "Summary": "Experience seamless productivity and vibrant creativity with the Apple iPad 11th Generation, powered by the A16 Bionic chip for smooth performance and an all-day battery life that keeps you going. Its gorgeous 11-inch Liquid Retina display with True Tone brings visuals to life, beautifully complementing your artistic endeavors and enhancing work, especially when paired with Apple Pencil or Magic Keyboard Folio.",
+    "Edited - Jamie pls check here": "Feel the power of seamless productivity on the iPad 11th Generation, with the A16 Bionic chip delivering fluid performance and all-day battery life. Vibrant 11-inch Liquid Retina display with True Tone enhances visuals, while Apple Pencil and Magic Keyboard Folio unlock creative and professional possibilities.",
+    "Remarks": ""
   },
   {
+    "Category": "Mobile",
     "SKU": 196777,
+    "Item Name": "Apple iPad (11th Generation) Wi-Fi",
     "Keywords": [
-      "[\"Apple\"",
-      "\"iPad 11th Gen\"",
-      "\"A16 Bionic\"]"
+      "Apple",
+      "iPad 11th Gen",
+      "A16 Bionic"
     ],
-    "Summary": "Immerse yourself in vibrant visuals on the gorgeous 11-inch Liquid Retina display, powered by the A16 Bionic chip for smooth performance, while enjoying all-day battery life and seamless creativity with Apple Pencil and Magic Keyboard Folio support, transforming your daily tasks into delightful experiences."
+    "Summary": "Immerse yourself in vibrant visuals on the gorgeous 11-inch Liquid Retina display, powered by the A16 Bionic chip for smooth performance, while enjoying all-day battery life and seamless creativity with Apple Pencil and Magic Keyboard Folio support, transforming your daily tasks into delightful experiences.",
+    "Edited - Jamie pls check here": "Indulge in stunning visuals on the 11-inch Liquid Retina display, where the A16 Bionic chip ensures fast, smooth performance, all-day battery supports continuous use, and Apple Pencil with Magic Keyboard Folio transforms tasks into immersive, satisfying experiences.",
+    "Remarks": ""
   },
   {
+    "Category": "Mobile",
     "SKU": 195566,
+    "Item Name": "Samsung Galaxy S25 Ultra (12GB + 512GB) Titanium Silver Blue",
     "Keywords": [
-      "[\"Samsung\"",
-      "\"Galaxy S25 Ultra\"",
-      "\"Galaxy AI\"]"
+      "Samsung",
+      "Galaxy S25 Ultra",
+      "Galaxy AI"
     ],
-    "Summary": "Experience seamless multitasking and expansive storage with the Qualcomm Snapdragon 8 Elite for Galaxy and 512GB ROM, complementing a versatile 200MP camera system to capture stunning visuals, all powered by a resilient 5000mAh battery for extended daily use."
+    "Summary": "Experience seamless multitasking and expansive storage with the Qualcomm Snapdragon 8 Elite for Galaxy and 512GB ROM, complementing a versatile 200MP camera system to capture stunning visuals, all powered by a resilient 5000mAh battery for extended daily use.",
+    "Edited - Jamie pls check here": "Savor smooth multitasking with the Qualcomm Snapdragon 8 Elite for Galaxy, while 512GB ROM ensures ample storage. Capture breathtaking photos and videos with the 200MP camera system, all powered by a robust 5000mAh battery for uninterrupted use throughout the day.",
+    "Remarks": ""
   },
   {
+    "Category": "Mobile",
     "SKU": 195569,
+    "Item Name": "Samsung Galaxy S25 Ultra (12GB + 512GB) Titanium Gray",
     "Keywords": [
-      "[\"Samsung\"",
-      "\"Galaxy S25 Ultra\"",
-      "\"Galaxy AI\"]"
+      "Samsung",
+      "Galaxy S25 Ultra",
+      "Galaxy AI"
     ],
-    "Summary": "Enjoy expansive storage with 512GB and 12GB RAM for seamless app use. A 5000mAh battery supports your day, while the Snapdragon 8 Elite processor handles tasks with ease. Capture incredible detail with the 200MP camera system, enhanced by Galaxy AI for smarter photos."
+    "Summary": "Enjoy expansive storage with 512GB and 12GB RAM for seamless app use. A 5000mAh battery supports your day, while the Snapdragon 8 Elite processor handles tasks with ease. Capture incredible detail with the 200MP camera system, enhanced by Galaxy AI for smarter photos.",
+    "Edited - Jamie pls check here": "Revel in expansive storage and smooth performance with 12GB RAM, powered by the Snapdragon 8 Elite processor. Snap stunning, smart photos with the 200MP camera and Galaxy AI, while a 5000mAh battery supports extended daily use.",
+    "Remarks": ""
   },
   {
+    "Category": "Mobile",
     "SKU": 195567,
+    "Item Name": "Samsung Galaxy S25 Ultra (12GB + 512GB) Titanium Black",
     "Keywords": [
-      "[\"Samsung Galaxy S25 Ultra\"",
-      "\"512GB Phone\"",
-      "\"Galaxy AI\"]"
+      "Samsung Galaxy S25 Ultra",
+      "512GB Phone",
+      "Galaxy AI"
     ],
-    "Summary": "Experience seamless multitasking and vibrant visuals on the 6.9-inch QHD+ display, powered by the Qualcomm Snapdragon 8 Elite processor. Capture every detail with a comprehensive 200MP camera system, store extensive files on 512GB, and enjoy lasting power with a 5000mAh battery, all enhanced by Epic AI features."
+    "Summary": "Experience seamless multitasking and vibrant visuals on the 6.9-inch QHD+ display, powered by the Qualcomm Snapdragon 8 Elite processor. Capture every detail with a comprehensive 200MP camera system, store extensive files on 512GB, and enjoy lasting power with a 5000mAh battery, all enhanced by Epic AI features.",
+    "Edited - Jamie pls check here": "Delight in crisp, immersive visuals on the 6.9-inch QHD+ display, where the Snapdragon 8 Elite processor handles multitasking effortlessly. Capture vivid imagery with the 200MP camera system, keep files on 512GB storage, and trust the 5000mAh battery to power the day, all elevated by Epic AI features.",
+    "Remarks": ""
   },
   {
+    "Category": "Mobile",
     "SKU": 194205,
+    "Item Name": "Apple iPhone 16 Pro",
     "Keywords": [
-      "[\"Apple\"",
-      "\"iPhone 16 Pro\"",
-      "\"A18 Pro Bionic Chip\"]"
+      "Apple",
+      "iPhone 16 Pro",
+      "A18 Pro Bionic Chip"
     ],
-    "Summary": "Enjoy powerful performance and ample 256GB storage with the A18 Pro Bionic chip, enabling stunning 4K 120 fps video and detailed 48MP photos, all within a durable titanium design that supports convenient USB-C and MagSafe charging."
+    "Summary": "Enjoy powerful performance and ample 256GB storage with the A18 Pro Bionic chip, enabling stunning 4K 120 fps video and detailed 48MP photos, all within a durable titanium design that supports convenient USB-C and MagSafe charging.",
+    "Edited - Jamie pls check here": "Delight in responsive performance powered by the A18 Pro Bionic chip, with 256GB storage for all memories. Record 4K 120 fps videos and capture 48MP photos effortlessly, while the titanium design supports practical USB-C and MagSafe charging.",
+    "Remarks": ""
   },
   {
+    "Category": "Mobile",
     "SKU": 194215,
+    "Item Name": "Apple iPhone 16 Pro Max",
     "Keywords": [
-      "[\"Apple iPhone\"",
-      "\"iPhone 16 Pro Max\"",
-      "\"A18 Pro Bionic Chip\"]"
+      "Apple iPhone",
+      "iPhone 16 Pro Max",
+      "A18 Pro Bionic Chip"
     ],
-    "Summary": "Experience seamless performance with the A18 Pro Bionic Chip, supporting advanced camera features like 4K 120 fps Dolby Vision for stunning video and photos. Its durable titanium design and Ceramic Shield protect your device, while 256GB storage and versatile USB-C or MagSafe charging ensure you stay powered and connected for extended use."
+    "Summary": "Experience seamless performance with the A18 Pro Bionic Chip, supporting advanced camera features like 4K 120 fps Dolby Vision for stunning video and photos. Its durable titanium design and Ceramic Shield protect your device, while 256GB storage and versatile USB-C or MagSafe charging ensure you stay powered and connected for extended use.",
+    "Edited - Jamie pls check here": "Feel effortless speed with the A18 Pro Bionic chip, where advanced 4K 120 fps Dolby Vision video and precise camera features capture every moment. Titanium and Ceramic Shield protect the device, and 256GB storage with USB-C or MagSafe charging ensures all-day connectivity and power.",
+    "Remarks": ""
   },
   {
+    "Category": "Small Appliance",
     "SKU": 159005,
+    "Item Name": "Samsung MS23K3513AW/TC",
     "Keywords": [
-      "[\"Samsung\"",
-      "\"Microwave Oven\"",
-      "\"Ceramic Interior\"]"
+      "Samsung",
+      "Microwave Oven",
+      "Ceramic Interior"
     ],
-    "Summary": "Experience effortless meal preparation with the Samsung Digital Microwave Oven, featuring a durable, easy-to-clean Ceramic Enamel interior for lasting hygiene, alongside smart pre-programmed recipes and Quick Defrost to save you time and simplify your daily cooking."
+    "Summary": "Experience effortless meal preparation with the Samsung Digital Microwave Oven, featuring a durable, easy-to-clean Ceramic Enamel interior for lasting hygiene, alongside smart pre-programmed recipes and Quick Defrost to save you time and simplify your daily cooking.",
+    "Edited - Jamie pls check here": "Indulge in effortless cooking with the Samsung Digital Microwave Oven, featuring a durable Ceramic Enamel interior for hygiene, complemented by smart pre-programmed recipes and Quick Defrost that streamline daily meal preparation.",
+    "Remarks": ""
   },
   {
+    "Category": "Small Appliance",
     "SKU": 167315,
+    "Item Name": "Toshiba RWF-W1615BF K",
     "Keywords": [
-      "[\"Toshiba\"",
-      "\"Water Dispenser\"",
-      "\"Bottom Load\"]"
+      "Toshiba",
+      "Water Dispenser",
+      "Bottom Load"
     ],
-    "Summary": "Experience ultimate convenience with Toshiba's bottom load water dispenser, featuring energy-efficient operation for daily savings, durable rust-free stainless steel tanks ensuring clean, fresh water, and a child safety lock for peace of mind, all while enjoying quick hot and extra cold water on demand."
+    "Summary": "Experience ultimate convenience with Toshiba's bottom load water dispenser, featuring energy-efficient operation for daily savings, durable rust-free stainless steel tanks ensuring clean, fresh water, and a child safety lock for peace of mind, all while enjoying quick hot and extra cold water on demand.",
+    "Edited - Jamie pls check here": "Delight in effortless access to fresh water with Toshiba?s bottom load dispenser, where energy-efficient performance reduces costs, rust-free stainless steel tanks maintain purity, and a child safety lock ensures security, all while hot and extra-cold water flows instantly.",
+    "Remarks": ""
   },
   {
+    "Category": "Small Appliance",
     "SKU": 191417,
+    "Item Name": "LG Smart Inverter NeoChef MS2535GIB Black",
     "Keywords": [
-      "[\"LG\"",
-      "\"Microwave Oven\"",
-      "\"Smart Inverter\"]"
+      "LG",
+      "Microwave Oven",
+      "Smart Inverter"
     ],
-    "Summary": "Transform your kitchen experience with the LG Smart Inverter NeoChef microwave, featuring precise digital control for consistent even heating, rapid cooking, and thorough defrosting, plus versatile functions like steaming and fermenting, all designed with an EasyClean interior for effortless upkeep and a clear LED lamp for convenience."
+    "Summary": "Transform your kitchen experience with the LG Smart Inverter NeoChef microwave, featuring precise digital control for consistent even heating, rapid cooking, and thorough defrosting, plus versatile functions like steaming and fermenting, all designed with an EasyClean interior for effortless upkeep and a clear LED lamp for convenience.",
+    "Edited - Jamie pls check here": "Savor effortless cooking with the LG Smart Inverter NeoChef microwave, where precise digital controls deliver even heating, rapid cooking, and thorough defrosting. Versatile steaming and fermenting functions expand culinary possibilities, while an EasyClean interior and bright LED lamp ensure effortless upkeep and clear visibility.",
+    "Remarks": ""
   },
   {
+    "Category": "Small Appliance",
     "SKU": 173183,
+    "Item Name": "Fujidenzo FWD 1524 W",
     "Keywords": [
-      "[\"Fujidenzo\"",
-      "\"Water Dispenser\"",
-      "\"Bottom Load\"]"
+      "Fujidenzo",
+      "Water Dispenser",
+      "Bottom Load"
     ],
-    "Summary": "Enjoy instant hot and cold water with the Fujidenzo bottom load dispenser, offering consistent temperatures via compressor cooling and effortless bottle changes, complemented by a child safety lock and double overheating protection for family peace of mind."
+    "Summary": "Enjoy instant hot and cold water with the Fujidenzo bottom load dispenser, offering consistent temperatures via compressor cooling and effortless bottle changes, complemented by a child safety lock and double overheating protection for family peace of mind.",
+    "Edited - Jamie pls check here": "Refresh daily with the Fujidenzo bottom load dispenser, as compressor cooling delivers stable hot and cold water, easy bottle swaps enhance convenience, and built-in child safety and double overheating protection provide reliable security.",
+    "Remarks": ""
   },
   {
+    "Category": "Small Appliance",
     "SKU": 189221,
+    "Item Name": "Dowell WDS-28BL",
     "Keywords": [
-      "[\"Dowell\"",
-      "\"Water Dispenser\"",
-      "\"Bottom Load\"]"
+      "Dowell",
+      "Water Dispenser",
+      "Bottom Load"
     ],
-    "Summary": "Experience ultimate convenience with the Dowell WDS-28BL, featuring a hassle-free bottom load design for easy bottle replacement, instant hot, cold, and normal water options for versatile hydration, and a child safety lock on the hot water faucet for worry-free use, all supported by ample tank capacities."
+    "Summary": "Experience ultimate convenience with the Dowell WDS-28BL, featuring a hassle-free bottom load design for easy bottle replacement, instant hot, cold, and normal water options for versatile hydration, and a child safety lock on the hot water faucet for worry-free use, all supported by ample tank capacities.",
+    "Edited - Jamie pls check here": "Feel convenient hydration with the Dowell WDS-28BL, as the bottom load design simplifies bottle changes, multiple water options provide flexibility, and a child safety lock protects against accidents, while ample tank capacity keeps water always available.",
+    "Remarks": ""
   },
   {
+    "Category": "Small Appliance",
     "SKU": 146355,
+    "Item Name": "Fujidenzo FWD1634B",
     "Keywords": [
-      "[\"Fujidenzo\"",
-      "\"Water Dispenser\"",
-      "\"Bottom Load\"]"
+      "Fujidenzo",
+      "Water Dispenser",
+      "Bottom Load"
     ],
-    "Summary": "Experience effortless hydration with the Fujidenzo FWD1634B bottom-load dispenser, offering versatile hot, cold, and warm water options, enhanced by a double safety device for overheating prevention and a child safety lock for peace of mind, plus a spacious cabinet for added convenience."
+    "Summary": "Experience effortless hydration with the Fujidenzo FWD1634B bottom-load dispenser, offering versatile hot, cold, and warm water options, enhanced by a double safety device for overheating prevention and a child safety lock for peace of mind, plus a spacious cabinet for added convenience.",
+    "Edited - Jamie pls check here": "Indulge in safe, flexible hydration with the Fujidenzo FWD1634B, where multiple water temperatures serve every preference, double safety features prevent overheating, the child safety lock offers reassurance, and a spacious cabinet keeps essentials neatly organized.",
+    "Remarks": ""
   },
   {
+    "Category": "Small Appliance",
     "SKU": 174683,
+    "Item Name": "Panasonic DH6SM1PW",
     "Keywords": [
-      "[\"Panasonic Water Heater\"",
-      "\"Compact Multi-Point\"",
-      "\"Instant Water Heater\"]"
+      "Panasonic Water Heater",
+      "Compact Multi-Point",
+      "Instant Water Heater"
     ],
-    "Summary": "Enjoy comfortable, on-demand warm water with the Panasonic DH6SM1PW, featuring a compact design that fits neatly into your space, stepless temperature control for personalized comfort, and a water filter ready system for cleaner water, all while operating efficiently even with low water pressure."
+    "Summary": "Enjoy comfortable, on-demand warm water with the Panasonic DH6SM1PW, featuring a compact design that fits neatly into your space, stepless temperature control for personalized comfort, and a water filter ready system for cleaner water, all while operating efficiently even with low water pressure.",
+    "Edited - Jamie pls check here": "Indulge in instant, tailored warmth with the Panasonic DH6SM1PW, as stepless temperature control adapts to every need, a water filter-ready system maintains pure water, and a compact design maximizes space efficiency, delivering reliable performance even with low water pressure.",
+    "Remarks": ""
   },
   {
+    "Category": "Small Appliance",
     "SKU": 140772,
+    "Item Name": "Whirlpool MWX 201 XEB",
     "Keywords": [
-      "[\"Whirlpool\"",
-      "\"Microwave Oven\"",
-      "\"Defrost Function\"]"
+      "Whirlpool",
+      "Microwave Oven",
+      "Defrost Function"
     ],
-    "Summary": "Experience effortless meal prep with the Whirlpool MWX 201 XEB, featuring a generous 20-liter capacity for large portions and convenient mechanical controls with six power levels, including a quick defrost function to save you time, all wrapped in a sleek black design that complements any kitchen."
+    "Summary": "Experience effortless meal prep with the Whirlpool MWX 201 XEB, featuring a generous 20-liter capacity for large portions and convenient mechanical controls with six power levels, including a quick defrost function to save you time, all wrapped in a sleek black design that complements any kitchen.",
+    "Edited - Jamie pls check here": "Savor effortless meal preparation with the Whirlpool MWX 201 XEB, where a spacious 20-liter capacity handles large portions, six mechanical power levels including quick defrost save time, and a sleek black design adds modern elegance to any kitchen.",
+    "Remarks": ""
   },
   {
+    "Category": "Small Appliance",
     "SKU": 144382,
+    "Item Name": "Fujidenzo MM 22 BL",
     "Keywords": [
-      "[\"Fujidenzo\"",
-      "\"Microwave Oven\"",
-      "\"Smart Wave System\"]"
+      "Fujidenzo",
+      "Microwave Oven",
+      "Smart Wave System"
     ],
-    "Summary": "Experience effortless meal preparation with the Fujidenzo MM 22 BL, featuring intuitive mechanical controls and a 30-minute timer for precise heating, alongside a Smart Wave System and defrost function that efficiently warms your food and thaws frozen items, simplifying your kitchen routine."
+    "Summary": "Experience effortless meal preparation with the Fujidenzo MM 22 BL, featuring intuitive mechanical controls and a 30-minute timer for precise heating, alongside a Smart Wave System and defrost function that efficiently warms your food and thaws frozen items, simplifying your kitchen routine.",
+    "Edited - Jamie pls check here": "Indulge in convenient cooking with the Fujidenzo MM 22 BL, where intuitive mechanical controls and a 30-minute timer ensure precise heat, and the Smart Wave System with defrost function efficiently warms and thaws food, making meal preparation effortless.",
+    "Remarks": ""
   },
   {
+    "Category": "Small Appliance",
     "SKU": 123519,
+    "Item Name": "Whirlpool MWX 203",
     "Keywords": [
-      "[\"Whirlpool\"",
-      "\"Microwave Oven\"",
-      "\"Auto Cook\"]"
+      "Whirlpool",
+      "Microwave Oven",
+      "Auto Cook"
     ],
-    "Summary": "Experience effortless meal preparation with the Whirlpool MWX 203, featuring a sleek black finish that elevates your kitchen's aesthetics, while its intuitive digital control and 6 Auto Cook Functions simplify reheating and defrosting, making daily tasks a breeze."
+    "Summary": "Experience effortless meal preparation with the Whirlpool MWX 203, featuring a sleek black finish that elevates your kitchen's aesthetics, while its intuitive digital control and 6 Auto Cook Functions simplify reheating and defrosting, making daily tasks a breeze.",
+    "Edited - Jamie pls check here": "Delight in effortless reheating and defrosting with the Whirlpool MWX 203, where six Auto Cook Functions and digital controls deliver consistent results, and a sleek black finish provides a robust, low-maintenance surface suitable for frequent use.",
+    "Remarks": ""
   },
   {
+    "Category": "Smart Home",
     "SKU": "D_185933",
+    "Item Name": "Philips Alpha VP-5HWS",
     "Keywords": [
-      "[\"Philips\"",
-      "\"Smart Door Lock\"",
-      "\"Remote Intercom\"]"
+      "Philips",
+      "Smart Door Lock",
+      "Remote Intercom"
     ],
-    "Summary": "Experience ultimate peace of mind with the Philips Alpha VP-5HWS, offering seamless remote monitoring and control through its Wi-Fi connected intercom, enhanced by multiple secure access options like fingerprint and hidden PIN, all guided by an intuitive human voice for a truly smart home security solution."
+    "Summary": "Experience ultimate peace of mind with the Philips Alpha VP-5HWS, offering seamless remote monitoring and control through its Wi-Fi connected intercom, enhanced by multiple secure access options like fingerprint and hidden PIN, all guided by an intuitive human voice for a truly smart home security solution.",
+    "Edited - Jamie pls check here": "Enjoy effortless control and safety with the Philips Alpha VP-5HWS, as Wi-Fi-enabled monitoring combined with fingerprint and hidden PIN access allows secure entry, while a human voice interface guides every interaction, delivering a dependable smart home security experience.",
+    "Remarks": ""
   },
   {
+    "Category": "Smart Home",
     "SKU": 193658,
+    "Item Name": "Eufy Smart Lock C210",
     "Keywords": [
-      "[\"Eufy\"",
-      "\"Smart Lock\"",
-      "\"Wi-Fi Control\"]"
+      "Eufy",
+      "Smart Lock",
+      "Wi-Fi Control"
     ],
-    "Summary": "Experience ultimate convenience and peace of mind with the Eufy Smart Lock C210, offering seamless remote monitoring and control via built-in Wi-Fi, effortless voice commands through AI assistants, and a simple plug-and-play setup for integrated smart home living."
+    "Summary": "Experience ultimate convenience and peace of mind with the Eufy Smart Lock C210, offering seamless remote monitoring and control via built-in Wi-Fi, effortless voice commands through AI assistants, and a simple plug-and-play setup for integrated smart home living.",
+    "Edited - Jamie pls check here": "Enjoy intuitive control with the Eufy Smart Lock C210, as Wi-Fi connectivity allows real-time monitoring, AI-powered voice commands simplify operation, and a plug-and-play design ensures fast, reliable integration into any smart home system.",
+    "Remarks": ""
   },
   {
+    "Category": "Smart Home",
     "SKU": 190410,
+    "Item Name": "TP-Link Tapo Indoor C210",
     "Keywords": [
-      "[\"TP-Link Tapo\"",
-      "\"Security Camera\"",
-      "\"Remote Monitoring\"]"
+      "TP-Link Tapo",
+      "Security Camera",
+      "Remote Monitoring"
     ],
-    "Summary": "Experience effortless home security with the TP-Link Tapo C210, offering simple plug-and-play setup for instant smart remote monitoring and control via your phone, seamlessly integrating with AI voice assistants for unparalleled convenience and peace of mind."
+    "Summary": "Experience effortless home security with the TP-Link Tapo C210, offering simple plug-and-play setup for instant smart remote monitoring and control via your phone, seamlessly integrating with AI voice assistants for unparalleled convenience and peace of mind.",
+    "Edited - Jamie pls check here": "Savor seamless home security with the TP-Link Tapo C210. Its plug-and-play setup enables instant remote monitoring via smartphone, while AI voice assistant integration delivers effortless control and reliable peace of mind.",
+    "Remarks": ""
   },
   {
+    "Category": "Smart Home",
     "SKU": 190414,
+    "Item Name": "TP-Link Outdoor Camera C320WS",
     "Keywords": [
-      "[\"TP-Link\"",
-      "\"Security Camera\"",
-      "\"Color Night Vision\"]"
+      "TP-Link",
+      "Security Camera",
+      "Color Night Vision"
     ],
-    "Summary": "Experience peace of mind with smart home security offering remote monitoring and control via the Tapo app, seamlessly integrating with AI-powered voice assistants for effortless management, and ensuring plug-and-play simplicity for a truly connected protective system."
+    "Summary": "Experience peace of mind with smart home security offering remote monitoring and control via the Tapo app, seamlessly integrating with AI-powered voice assistants for effortless management, and ensuring plug-and-play simplicity for a truly connected protective system.",
+    "Edited - Jamie pls check here": "Feel confident at home with smart security that allows remote monitoring and control via the Tapo app. Effortless management is enabled through AI voice assistants and simple plug-and-play installation, ensuring reliable protection every day.",
+    "Remarks": ""
   },
   {
+    "Category": "Smart Home",
     "SKU": 193577,
+    "Item Name": "Eufy SoloCam S220",
     "Keywords": [
-      "[\"Eufy\"",
-      "\"Outdoor Security Camera\"",
-      "\"Solar Powered\"]"
+      "Eufy",
+      "Outdoor Security Camera",
+      "Solar Powered"
     ],
-    "Summary": "Enjoy continuous home protection with the Eufy SoloCam S220, featuring 2K resolution and infrared night vision for clear views, powered by integrated solar charging for energy efficiency, and designed for easy, wire-free installation with convenient in-app control."
+    "Summary": "Enjoy continuous home protection with the Eufy SoloCam S220, featuring 2K resolution and infrared night vision for clear views, powered by integrated solar charging for energy efficiency, and designed for easy, wire-free installation with convenient in-app control.",
+    "Edited - Jamie pls check here": "Enjoy continuous home protection with the Eufy SoloCam S220, delivering 2K resolution and infrared night vision for crisp, clear views day and night. Integrated solar charging ensures energy efficiency, while wire-free installation and in-app control provide effortless setup and management.",
+    "Remarks": ""
   },
   {
+    "Category": "Smart Home",
     "SKU": 190411,
+    "Item Name": "TP-Link Tapo Outdoor C500",
     "Keywords": [
-      "[\"TP-Link Tapo\"",
-      "\"Security Camera\"",
-      "\"Smart Detection\"]"
+      "TP-Link Tapo",
+      "Security Camera",
+      "Smart Detection"
     ],
-    "Summary": "Secure your home with confidence using the TP-Link Tapo C500, offering seamless remote monitoring via the Tapo App, smart detection alerts, and convenient voice control integration, all designed for plug-and-play simplicity to give you peace of mind."
+    "Summary": "Secure your home with confidence using the TP-Link Tapo C500, offering seamless remote monitoring via the Tapo App, smart detection alerts, and convenient voice control integration, all designed for plug-and-play simplicity to give you peace of mind.",
+    "Edited - Jamie pls check here": "Secure your home with confidence using the TP-Link Tapo C500, providing seamless remote monitoring through the Tapo App and smart detection alerts for real-time awareness. Plug-and-play simplicity and AI voice control integration ensure effortless setup and intuitive management, giving lasting peace of mind.",
+    "Remarks": ""
   },
   {
+    "Category": "Smart Home",
     "SKU": "D_185934",
+    "Item Name": "Philips 7300-5HB",
     "Keywords": [
-      "[\"Philips\"",
-      "\"Smart Door Lock\"",
-      "\"Fingerprint Lock\"]"
+      "Philips",
+      "Smart Door Lock",
+      "Fingerprint Lock"
     ],
-    "Summary": "Experience ultimate peace of mind with the Philips 7300-5HB, a smart lever door lock featuring advanced fingerprint, RFID, and PIN access for secure entry, complemented by Bluetooth app control and viewing access records for effortless remote monitoring of your home."
+    "Summary": "Experience ultimate peace of mind with the Philips 7300-5HB, a smart lever door lock featuring advanced fingerprint, RFID, and PIN access for secure entry, complemented by Bluetooth app control and viewing access records for effortless remote monitoring of your home.",
+    "Edited - Jamie pls check here": "Savor worry-free security with the Philips 7300-5HB, combining advanced fingerprint, RFID, and PIN authentication to protect your home. Bluetooth app control and instant access logs ensure easy, remote management for complete peace of mind.",
+    "Remarks": ""
   },
   {
+    "Category": "Smart Home",
     "SKU": 185745,
+    "Item Name": "Philips Smart Lever Door Lock DDL603E-5HWS",
     "Keywords": [
-      "[\"Philips\"",
-      "\"Smart Door Lock\"",
-      "\"Remote Access\"]"
+      "Philips",
+      "Smart Door Lock",
+      "Remote Access"
     ],
-    "Summary": "Experience enhanced home security and convenience with the Philips Smart Lever Door Lock, empowering you to remotely monitor access records and distribute one-time PIN codes via Wi-Fi, complemented by swift, one-grip fingerprint unlocking for a truly connected entrance."
+    "Summary": "Experience enhanced home security and convenience with the Philips Smart Lever Door Lock, empowering you to remotely monitor access records and distribute one-time PIN codes via Wi-Fi, complemented by swift, one-grip fingerprint unlocking for a truly connected entrance.",
+    "Edited - Jamie pls check here": "Feel confident in home protection with the Philips Smart Lever Door Lock, where Wi-Fi connectivity allows effortless monitoring of access and one-time PIN code distribution. Quick, one-grip fingerprint unlocking provides seamless entry for daily convenience.",
+    "Remarks": ""
   },
   {
+    "Category": "Smart Home",
     "SKU": 194262,
+    "Item Name": "TP-Link Tapo D230S1",
     "Keywords": [
-      "[\"TP-Link Tapo\"",
-      "\"Smart Video Doorbell\"",
-      "\"AI Detection\"]"
+      "TP-Link Tapo",
+      "Smart Video Doorbell",
+      "AI Detection"
     ],
-    "Summary": "Enjoy effortless home monitoring with the TP-Link Tapo D230S1 kit, enabling remote control and two-way audio via the Tapo App. Its long-lasting battery ensures energy efficiency, while smart AI detection and voice assistant integration with Google and Alexa offer convenient, intelligent security."
+    "Summary": "Enjoy effortless home monitoring with the TP-Link Tapo D230S1 kit, enabling remote control and two-way audio via the Tapo App. Its long-lasting battery ensures energy efficiency, while smart AI detection and voice assistant integration with Google and Alexa offer convenient, intelligent security.",
+    "Edited - Jamie pls check here": "Feel confident in home protection with the TP-Link Tapo D230S1, offering two-way audio and remote monitoring through the Tapo App. Energy-efficient battery performance and AI-powered detection, combined with Google and Alexa integration, ensure responsive, smart security",
+    "Remarks": ""
   },
   {
+    "Category": "Smart Home",
     "SKU": "D_197269",
+    "Item Name": "Sonos Era 100 Black",
     "Keywords": [
-      "[\"Sonos\"",
-      "\"Smart Speaker\"",
-      "\"Alexa\"]"
+      "Sonos",
+      "Smart Speaker",
+      "Alexa"
     ],
-    "Summary": "Elevate your listening with the Sonos Era 100, featuring smart technology and effortless voice control via Alexa Built-in. Its intuitive design allows seamless remote management through the Sonos App, while Wi-Fi and Bluetooth 5.3 ensure simple, robust connectivity for an immersive audio experience."
+    "Summary": "Elevate your listening with the Sonos Era 100, featuring smart technology and effortless voice control via Alexa Built-in. Its intuitive design allows seamless remote management through the Sonos App, while Wi-Fi and Bluetooth 5.3 ensure simple, robust connectivity for an immersive audio experience.",
+    "Edited - Jamie pls check here": "Immerse in crystal-clear sound with the Sonos Era 100, offering intuitive Alexa Built-in voice control. Remote management via the Sonos App, paired with reliable Wi-Fi and Bluetooth 5.3 connectivity, ensures a rich, uninterrupted audio journey for any room.",
+    "Remarks": ""
   },
   {
+    "Category": "",
     "SKU": 182282,
+    "Item Name": "Test ni benz",
     "Keywords": [
-      "[\"Logitech Desk Mat\"",
-      "\"Studio Series Dark Rose\"",
-      "\"Spill-Resistant Mat\"]"
+      "Logitech Desk Mat",
+      "Studio Series Dark Rose",
+      "Spill-Resistant Mat"
     ],
-    "Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit."
+    "Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "Edited - Jamie pls check here": "",
+    "Remarks": ""
   }
 ]
