@@ -99,7 +99,7 @@
     ]
   },
   {
-    "sku": 192181,
+    "sku": "D_192181",
     "summary": "Feel the thrill of breathtaking visuals on your 43-inch 4K UHD display, where the A5 Gen7 AI Processor delivers vibrant colors and intricate details. Dolby Audio and AI Sound Pro enrich your space with clear, multi-dimensional sound, while Smart Energy Saving optimizes power use for an immersive and efficient experience.",
     "keywords": [
       "LG",
@@ -135,7 +135,7 @@
     ]
   },
   {
-    "sku": 192162,
+    "sku": "D_192162",
     "summary": "Relish the stunning clarity of 4K visuals on the 55-inch OLED screen, powered by the A9 Gen7 AI Processor. Dolby Atmos creates immersive, multi-dimensional sound, and Smart Energy Saving ensures low power consumption, delivering a cinematic experience that?s both thrilling and enduring.",
     "keywords": [
       "LG",
@@ -171,7 +171,7 @@
     ]
   },
   {
-    "sku": 191871,
+    "sku": "D_191871",
     "summary": "Soak in stunning 4K imagery on the 55-inch UHD screen, enhanced by Crystal Processor 4K and Dynamic Crystal Color for lifelike clarity. Q-Symphony audio envelops your room, and 165W operation keeps your viewing sessions long, immersive, and worry-free.",
     "keywords": [
       "Samsung",
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "sku": 185655,
+    "sku": "D_185655",
     "summary": "Immerse in spotless, fragrant laundry with the Panasonic NA F85A9HRM. Stain Master lifts stubborn dirt, Aroma+ maintains lasting freshness, and the 8.5?kg Sazanami Drum protects garments with efficient, fabric-friendly washes.",
     "keywords": [
       "Panasonic",
@@ -807,15 +807,6 @@
       "Sonos",
       "Smart Speaker",
       "Alexa"
-    ]
-  },
-  {
-    "sku": 182282,
-    "summary": "Elevate your listening with the Sonos Era 100, featuring smart technology and effortless voice control via Alexa Built-in. Its intuitive design allows seamless remote management through the Sonos App, while Wi-Fi and Bluetooth 5.3 ensure simple, robust connectivity for an immersive audio experience.",
-    "keywords": [
-      "Logitech Desk Mat",
-      "Studio Series Dark Rose",
-      "Spill-Resistant Mat"
     ]
   }
 ]
