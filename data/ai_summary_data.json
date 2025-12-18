@@ -45,7 +45,7 @@
     ]
   },
   {
-    "sku": 195843,
+    "sku": "D_195843",
     "summary": "Delight in quiet, efficient cooling with the Midea Celest 2.0 Inverter (MSCE-19CRFN8) 2.0 HP Full DC Inverter, whose CSPF rating of 5.55 and Eco Master deliver 20% additional energy savings. AI Temperature Control keeps temperatures precise, and UV-conformal plus anti-corrosive coatings ensure long-term performance, leaving your home comfortably cool and energy-smart.",
     "keywords": [
       "Midea",
@@ -585,7 +585,7 @@
     ]
   },
   {
-    "sku": "D_195566",
+    "sku": 195566,
     "summary": "Power meets style with the Galaxy S25 Ultra in Titanium Silver Blue with the Qualcomm Snapdragon 8 Elite for Galaxy, while 512GB ROM ensures ample storage. Capture breathtaking photos and videos with the 200MP camera system, all powered by a robust 5000mAh battery for uninterrupted use throughout the day.",
     "keywords": [
       "Samsung",
@@ -594,7 +594,7 @@
     ]
   },
   {
-    "sku": "D_195569",
+    "sku": 195569,
     "summary": "Revel in expansive storage and smooth performance of the Samsung Galaxy S25 Ultra (12GB + 512GB) Titanium Gray with 12GB RAM, powered by the Snapdragon 8 Elite processor. Snap stunning, smart photos with the 200MP camera and Galaxy AI, while a 5000mAh battery supports extended daily use.",
     "keywords": [
       "Samsung",
@@ -603,7 +603,7 @@
     ]
   },
   {
-    "sku": "D_195567",
+    "sku": 195567,
     "summary": "Delight in crisp, immersive visuals of the Samsung Galaxy S25 Ultra (12GB + 512GB) Titanium Black's 6.9-inch QHD+ display, where the Snapdragon 8 Elite processor handles multitasking effortlessly. Capture vivid imagery with the 200MP camera system, keep files on 512GB storage, and trust the 5000mAh battery to power the day, all elevated by Epic AI features.",
     "keywords": [
       "Samsung Galaxy S25 Ultra",
@@ -807,6 +807,51 @@
       "Sonos",
       "Smart Speaker",
       "Alexa"
+    ]
+  },
+  {
+    "sku": 149999,
+    "summary": "",
+    "keywords": [
+      "LG",
+      "Refrigerator",
+      "Smart Inverter"
+    ]
+  },
+  {
+    "sku": 194217,
+    "summary": "",
+    "keywords": [
+      "Apple",
+      "iPhone 16 Pro Max",
+      "A18 Pro Bionic"
+    ]
+  },
+  {
+    "sku": 177252,
+    "summary": "",
+    "keywords": [
+      "Apple",
+      "iPhone 13",
+      "A15 Bionic chip"
+    ]
+  },
+  {
+    "sku": 177251,
+    "summary": "",
+    "keywords": [
+      "Apple",
+      "iPhone 13",
+      "A15 Bionic"
+    ]
+  },
+  {
+    "sku": 172572,
+    "summary": "",
+    "keywords": [
+      "Panasonic",
+      "Top Load Washer",
+      "StainMaster"
     ]
   }
 ]
